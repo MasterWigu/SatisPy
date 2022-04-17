@@ -2,10 +2,24 @@ import re
 from typing import List, Dict
 import requests
 import bs4
+import networkx as nx
 
 import collections
 
 collections.Callable = collections.abc.Callable
+
+
+class Machine:
+    def __init__(self, machine_id, name, base_power):
+        self.id: str = machine_id
+        self.name: str = name
+        self.base_power = base_power
+
+    def get_power(self, clock: float = 100.0):
+        return self.base_power * (clock / 100) ** 1.6
+
+    def __str__(self):
+        return self.name
 
 
 class RecipeItem:
@@ -17,13 +31,19 @@ class RecipeItem:
         return "\t\t\t{} x {}\n".format(self.item.name, self.quantity)
 
 
+recipe_counter = 0
+
+
 class Recipe:
-    def __init__(self, name, inputs, outputs, time, alternative):
-        self.name: str = name
+    def __init__(self, name, inputs, outputs, time, machine, alternative):
+        global recipe_counter
+        self.name: str = str(recipe_counter) + "_" + name.replace(" ", "_")
+        recipe_counter += 1
         self.inputs: List[RecipeItem] = inputs
         self.outputs: List[RecipeItem] = outputs
         self.time = time
         self.alternative = alternative
+        self.machine: Machine = machine
 
     def add_input(self, item: RecipeItem):
         self.inputs.append(item)
@@ -53,11 +73,18 @@ class Recipe:
             outputs_str += str(part)
 
         return "\tRecipe Name: {}\n\t\tInputs: \n{}\n\t\tOutputs: " \
-               "\n{}\n\t\tTime: {}\n\t\tAlt: {}\n".format(self.name,
-                                                          inputs_str,
-                                                          outputs_str,
-                                                          self.time,
-                                                          self.alternative)
+               "\n{}\n\t\tTime: {}\n\t\tMachine: {}\n\t\tAlt: {}\n".format(self.name,
+                                                                           inputs_str,
+                                                                           outputs_str,
+                                                                           self.time,
+                                                                           self.machine,
+                                                                           self.alternative)
+
+    def short_repr(self):
+        return "\tRecipe Name: {}\n\t\tTime: {}\n\t\tMachine: {}\n\t\tAlt: {}\n".format(self.name,
+                                                                                        self.time,
+                                                                                        self.machine,
+                                                                                        self.alternative)
 
 
 class Item:
@@ -77,6 +104,9 @@ class Item:
 
         return "Item id: {}\nItem name: {}\nItem link: {}\nRecipes: \n{}\n\n".format(self.id, self.name, self.link,
                                                                                      recipes_str)
+
+    def short_repr(self):
+        return "Item id: {}\nItem name: {}\nItem link: {}\n\n".format(self.id, self.name, self.link)
 
 
 class ItemList:
@@ -126,6 +156,8 @@ class Parser:
 
     def _parse_item_recipes(self, item: Item):
         item_html = requests.get(item.link).text
+        item_html = item_html.split('<span class="mw-headline" id="Usage">Usage</span>')[0]
+
         page_re = re.compile(
             r'(?P<TABLE><tbody><tr><th>Recipe</th><th colspan="12">Ingredients</th><th>Building</th><th '
             r'colspan="2">Products</th><th>Prerequisites</th></tr>[\w\W\s]*?)</table>')
@@ -178,6 +210,7 @@ class Parser:
             inputs = []
             outputs = []
             time = 0.0
+            # <span class="mw-headline" id="Usage">Usage</span>
             in_inputs = True
             for col in row[1:]:
                 if col.startswith("<span><a href"):
@@ -198,17 +231,41 @@ class Parser:
                             inputs.append(RecipeItem(self.itemList.get_item(item_id), item_qty))
                         else:
                             outputs.append(RecipeItem(self.itemList.get_item(item_id), item_qty))
-            item.add_recipe(Recipe(rec_name, inputs, outputs, time, alternate))
+            item.add_recipe(Recipe(rec_name, inputs, outputs, time, None, alternate))
+
+    def list_to_graph(self, alts: bool = False) -> nx.Graph:
+        g = nx.DiGraph()
+
+        for item in self.itemList.get_all_items():
+            g.add_node(item.id, name=item.name, type="Item", repr=item.short_repr())
+            for recipe in item.recipes:
+                if alts or not recipe.alternative:
+                    g.add_node(recipe.name, name=recipe.name, type="Recipe", repr=recipe.short_repr())
+
+        for item in self.itemList.get_all_items():
+            for recipe in item.recipes:
+                if alts or not recipe.alternative:
+                    for rec_input in recipe.inputs:
+                        g.add_edge(rec_input.item.id, recipe.name)
+                    for rec_output in recipe.outputs:
+                        g.add_edge(recipe.name, rec_output.item.id)
+
+        return g
 
 
 def main():
     parser = Parser()
-    # item = Item('aaa', "https://satisfactory.fandom.com/wiki/Aluminum_Casing", "aaAAaa")
     parser.parse_item_list()
     parser.parse_items_recipes()
     print(parser.itemList)
 
+    g = parser.list_to_graph()
+    nx.write_graphml(g, "graph_no_alt.graphml")
 
-# Press the green button in the gutter to run the script.
+    g = parser.list_to_graph(alts=True)
+    nx.write_graphml(g, "graph.graphml")
+
+
+
 if __name__ == '__main__':
     main()

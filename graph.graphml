@@ -1,0 +1,3750 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="node" attr.name="repr" attr.type="string" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="name" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="Adaptive_Control_Unit">
+      <data key="d0">Adaptive Control Unit</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Adaptive_Control_Unit
+Item name: Adaptive Control Unit
+Item link: https://satisfactory.fandom.com/wiki/Adaptive_Control_Unit
+
+</data>
+    </node>
+    <node id="0_Adaptive_Control_Unit">
+      <data key="d0">0_Adaptive_Control_Unit</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 0_Adaptive_Control_Unit
+		Time: 120
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="AI_Limiter">
+      <data key="d0">AI Limiter</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: AI_Limiter
+Item name: AI Limiter
+Item link: https://satisfactory.fandom.com/wiki/AI_Limiter
+
+</data>
+    </node>
+    <node id="1_AI_Limiter">
+      <data key="d0">1_AI_Limiter</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 1_AI_Limiter
+		Time: 12
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Alclad_Aluminum_Sheet">
+      <data key="d0">Alclad Aluminum Sheet</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Alclad_Aluminum_Sheet
+Item name: Alclad Aluminum Sheet
+Item link: https://satisfactory.fandom.com/wiki/Alclad_Aluminum_Sheet
+
+</data>
+    </node>
+    <node id="2_Alclad_Aluminum_Sheet">
+      <data key="d0">2_Alclad_Aluminum_Sheet</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 2_Alclad_Aluminum_Sheet
+		Time: 6
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Alien_Carapace">
+      <data key="d0">Alien Carapace</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Alien_Carapace
+Item name: Alien Carapace
+Item link: https://satisfactory.fandom.com/wiki/Alien_Carapace
+
+</data>
+    </node>
+    <node id="Alien_Organs">
+      <data key="d0">Alien Organs</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Alien_Organs
+Item name: Alien Organs
+Item link: https://satisfactory.fandom.com/wiki/Alien_Organs
+
+</data>
+    </node>
+    <node id="Aluminum_Casing">
+      <data key="d0">Aluminum Casing</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Aluminum_Casing
+Item name: Aluminum Casing
+Item link: https://satisfactory.fandom.com/wiki/Aluminum_Casing
+
+</data>
+    </node>
+    <node id="3_Aluminum_Casing">
+      <data key="d0">3_Aluminum_Casing</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 3_Aluminum_Casing
+		Time: 2
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="4_Alclad_Casing">
+      <data key="d0">4_Alclad_Casing</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 4_Alclad_Casing
+		Time: 8
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Aluminum_Ingot">
+      <data key="d0">Aluminum Ingot</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Aluminum_Ingot
+Item name: Aluminum Ingot
+Item link: https://satisfactory.fandom.com/wiki/Aluminum_Ingot
+
+</data>
+    </node>
+    <node id="5_Aluminum_Ingot">
+      <data key="d0">5_Aluminum_Ingot</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 5_Aluminum_Ingot
+		Time: 4
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="6_Pure_Aluminum_Ingot">
+      <data key="d0">6_Pure_Aluminum_Ingot</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 6_Pure_Aluminum_Ingot
+		Time: 2
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Aluminum_Scrap">
+      <data key="d0">Aluminum Scrap</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Aluminum_Scrap
+Item name: Aluminum Scrap
+Item link: https://satisfactory.fandom.com/wiki/Aluminum_Scrap
+
+</data>
+    </node>
+    <node id="7_Aluminum_Scrap">
+      <data key="d0">7_Aluminum_Scrap</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 7_Aluminum_Scrap
+		Time: 1
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="8_Electrode_-_Aluminum_Scrap">
+      <data key="d0">8_Electrode_-_Aluminum_Scrap</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 8_Electrode_-_Aluminum_Scrap
+		Time: 4
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="9_Instant_Scrap">
+      <data key="d0">9_Instant_Scrap</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 9_Instant_Scrap
+		Time: 6
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Assembly_Director_System">
+      <data key="d0">Assembly Director System</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Assembly_Director_System
+Item name: Assembly Director System
+Item link: https://satisfactory.fandom.com/wiki/Assembly_Director_System
+
+</data>
+    </node>
+    <node id="10_Assembly_Director_System">
+      <data key="d0">10_Assembly_Director_System</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 10_Assembly_Director_System
+		Time: 80
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Automated_Wiring">
+      <data key="d0">Automated Wiring</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Automated_Wiring
+Item name: Automated Wiring
+Item link: https://satisfactory.fandom.com/wiki/Automated_Wiring
+
+</data>
+    </node>
+    <node id="11_Automated_Wiring">
+      <data key="d0">11_Automated_Wiring</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 11_Automated_Wiring
+		Time: 24
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="12_Automated_Speed_Wiring">
+      <data key="d0">12_Automated_Speed_Wiring</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 12_Automated_Speed_Wiring
+		Time: 32
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Bacon_Agaric">
+      <data key="d0">Bacon Agaric</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Bacon_Agaric
+Item name: Bacon Agaric
+Item link: https://satisfactory.fandom.com/wiki/Bacon_Agaric
+
+</data>
+    </node>
+    <node id="Battery">
+      <data key="d0">Battery</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Battery
+Item name: Battery
+Item link: https://satisfactory.fandom.com/wiki/Battery
+
+</data>
+    </node>
+    <node id="13_Battery">
+      <data key="d0">13_Battery</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 13_Battery
+		Time: 3
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="14_Classic_Battery">
+      <data key="d0">14_Classic_Battery</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 14_Classic_Battery
+		Time: 8
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Bauxite">
+      <data key="d0">Bauxite</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Bauxite
+Item name: Bauxite
+Item link: https://satisfactory.fandom.com/wiki/Bauxite
+
+</data>
+    </node>
+    <node id="Beacon">
+      <data key="d0">Beacon</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Beacon
+Item name: Beacon
+Item link: https://satisfactory.fandom.com/wiki/Beacon
+
+</data>
+    </node>
+    <node id="15_Beacon">
+      <data key="d0">15_Beacon</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 15_Beacon
+		Time: 8
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="16_Crystal_Beacon">
+      <data key="d0">16_Crystal_Beacon</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 16_Crystal_Beacon
+		Time: 120
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Beryl_Nut">
+      <data key="d0">Beryl Nut</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Beryl_Nut
+Item name: Beryl Nut
+Item link: https://satisfactory.fandom.com/wiki/Beryl_Nut
+
+</data>
+    </node>
+    <node id="Biomass">
+      <data key="d0">Biomass</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Biomass
+Item name: Biomass
+Item link: https://satisfactory.fandom.com/wiki/Biomass
+
+</data>
+    </node>
+    <node id="17_Biomass_(Leaves)">
+      <data key="d0">17_Biomass_(Leaves)</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 17_Biomass_(Leaves)
+		Time: 5
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="18_Biomass_(Wood)">
+      <data key="d0">18_Biomass_(Wood)</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 18_Biomass_(Wood)
+		Time: 4
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="19_Biomass_(Mycelia)">
+      <data key="d0">19_Biomass_(Mycelia)</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 19_Biomass_(Mycelia)
+		Time: 4
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="20_Biomass_(Alien_Carapace)">
+      <data key="d0">20_Biomass_(Alien_Carapace)</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 20_Biomass_(Alien_Carapace)
+		Time: 4
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="21_Biomass_(Alien_Organs)">
+      <data key="d0">21_Biomass_(Alien_Organs)</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 21_Biomass_(Alien_Organs)
+		Time: 8
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Black_Powder">
+      <data key="d0">Black Powder</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Black_Powder
+Item name: Black Powder
+Item link: https://satisfactory.fandom.com/wiki/Black_Powder
+
+</data>
+    </node>
+    <node id="22_Black_Powder">
+      <data key="d0">22_Black_Powder</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 22_Black_Powder
+		Time: 8
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="23_Fine_Black_Powder">
+      <data key="d0">23_Fine_Black_Powder</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 23_Fine_Black_Powder
+		Time: 16
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Blade_Runners">
+      <data key="d0">Blade Runners</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Blade_Runners
+Item name: Blade Runners
+Item link: https://satisfactory.fandom.com/wiki/Blade_Runners
+
+</data>
+    </node>
+    <node id="24_Blade_Runners">
+      <data key="d0">24_Blade_Runners</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 24_Blade_Runners
+		Time: 0.0
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Cable">
+      <data key="d0">Cable</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Cable
+Item name: Cable
+Item link: https://satisfactory.fandom.com/wiki/Cable
+
+</data>
+    </node>
+    <node id="25_Cable">
+      <data key="d0">25_Cable</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 25_Cable
+		Time: 2
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="26_Coated_Cable">
+      <data key="d0">26_Coated_Cable</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 26_Coated_Cable
+		Time: 8
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="27_Insulated_Cable">
+      <data key="d0">27_Insulated_Cable</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 27_Insulated_Cable
+		Time: 12
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="28_Quickwire_Cable">
+      <data key="d0">28_Quickwire_Cable</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 28_Quickwire_Cable
+		Time: 24
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Caterium_Ingot">
+      <data key="d0">Caterium Ingot</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Caterium_Ingot
+Item name: Caterium Ingot
+Item link: https://satisfactory.fandom.com/wiki/Caterium_Ingot
+
+</data>
+    </node>
+    <node id="29_Caterium_Ingot">
+      <data key="d0">29_Caterium_Ingot</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 29_Caterium_Ingot
+		Time: 4
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="30_Pure_Caterium_Ingot">
+      <data key="d0">30_Pure_Caterium_Ingot</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 30_Pure_Caterium_Ingot
+		Time: 5
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Caterium_Ore">
+      <data key="d0">Caterium Ore</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Caterium_Ore
+Item name: Caterium Ore
+Item link: https://satisfactory.fandom.com/wiki/Caterium_Ore
+
+</data>
+    </node>
+    <node id="Circuit_Board">
+      <data key="d0">Circuit Board</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Circuit_Board
+Item name: Circuit Board
+Item link: https://satisfactory.fandom.com/wiki/Circuit_Board
+
+</data>
+    </node>
+    <node id="31_Circuit_Board">
+      <data key="d0">31_Circuit_Board</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 31_Circuit_Board
+		Time: 8
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="32_Electrode_Circuit_Board">
+      <data key="d0">32_Electrode_Circuit_Board</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 32_Electrode_Circuit_Board
+		Time: 12
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="33_Silicon_Circuit_Board">
+      <data key="d0">33_Silicon_Circuit_Board</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 33_Silicon_Circuit_Board
+		Time: 24
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="34_Caterium_Circuit_Board">
+      <data key="d0">34_Caterium_Circuit_Board</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 34_Caterium_Circuit_Board
+		Time: 48
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Coal">
+      <data key="d0">Coal</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Coal
+Item name: Coal
+Item link: https://satisfactory.fandom.com/wiki/Coal
+
+</data>
+    </node>
+    <node id="35_Coal">
+      <data key="d0">35_Coal</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 35_Coal
+		Time: 1
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="36_Biocoal">
+      <data key="d0">36_Biocoal</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 36_Biocoal
+		Time: 8
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="37_Charcoal">
+      <data key="d0">37_Charcoal</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 37_Charcoal
+		Time: 4
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Color_Gun">
+      <data key="d0">Color Gun</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Color_Gun
+Item name: Color Gun
+Item link: https://satisfactory.fandom.com/wiki/Color_Gun
+
+</data>
+    </node>
+    <node id="38_Color_Gun&lt;span&gt;Unreleased&lt;/span&gt; ">
+      <data key="d0">38_Color_Gun&lt;span&gt;Unreleased&lt;/span&gt; </data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 38_Color_Gun&lt;span&gt;Unreleased&lt;/span&gt; 
+		Time: 0.0
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Compacted_Coal">
+      <data key="d0">Compacted Coal</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Compacted_Coal
+Item name: Compacted Coal
+Item link: https://satisfactory.fandom.com/wiki/Compacted_Coal
+
+</data>
+    </node>
+    <node id="39_Compacted_Coal">
+      <data key="d0">39_Compacted_Coal</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 39_Compacted_Coal
+		Time: 12
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Computer">
+      <data key="d0">Computer</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Computer
+Item name: Computer
+Item link: https://satisfactory.fandom.com/wiki/Computer
+
+</data>
+    </node>
+    <node id="40_Computer">
+      <data key="d0">40_Computer</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 40_Computer
+		Time: 24
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="41_Crystal_Computer">
+      <data key="d0">41_Crystal_Computer</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 41_Crystal_Computer
+		Time: 64
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="42_Caterium_Computer">
+      <data key="d0">42_Caterium_Computer</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 42_Caterium_Computer
+		Time: 16
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Concrete">
+      <data key="d0">Concrete</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Concrete
+Item name: Concrete
+Item link: https://satisfactory.fandom.com/wiki/Concrete
+
+</data>
+    </node>
+    <node id="43_Concrete">
+      <data key="d0">43_Concrete</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 43_Concrete
+		Time: 4
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="44_Rubber_Concrete">
+      <data key="d0">44_Rubber_Concrete</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 44_Rubber_Concrete
+		Time: 12
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="45_Wet_Concrete">
+      <data key="d0">45_Wet_Concrete</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 45_Wet_Concrete
+		Time: 3
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="46_Fine_Concrete">
+      <data key="d0">46_Fine_Concrete</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 46_Fine_Concrete
+		Time: 24
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Cooling_System">
+      <data key="d0">Cooling System</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Cooling_System
+Item name: Cooling System
+Item link: https://satisfactory.fandom.com/wiki/Cooling_System
+
+</data>
+    </node>
+    <node id="47_Cooling_System">
+      <data key="d0">47_Cooling_System</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 47_Cooling_System
+		Time: 10
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="48_Cooling_Device">
+      <data key="d0">48_Cooling_Device</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 48_Cooling_Device
+		Time: 32
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Copper_Ingot">
+      <data key="d0">Copper Ingot</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Copper_Ingot
+Item name: Copper Ingot
+Item link: https://satisfactory.fandom.com/wiki/Copper_Ingot
+
+</data>
+    </node>
+    <node id="49_Copper_Ingot">
+      <data key="d0">49_Copper_Ingot</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 49_Copper_Ingot
+		Time: 2
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="50_Copper_Alloy_Ingot">
+      <data key="d0">50_Copper_Alloy_Ingot</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 50_Copper_Alloy_Ingot
+		Time: 12
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="51_Pure_Copper_Ingot">
+      <data key="d0">51_Pure_Copper_Ingot</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 51_Pure_Copper_Ingot
+		Time: 24
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Copper_Ore">
+      <data key="d0">Copper Ore</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Copper_Ore
+Item name: Copper Ore
+Item link: https://satisfactory.fandom.com/wiki/Copper_Ore
+
+</data>
+    </node>
+    <node id="Copper_Powder">
+      <data key="d0">Copper Powder</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Copper_Powder
+Item name: Copper Powder
+Item link: https://satisfactory.fandom.com/wiki/Copper_Powder
+
+</data>
+    </node>
+    <node id="52_Copper_Powder">
+      <data key="d0">52_Copper_Powder</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 52_Copper_Powder
+		Time: 6
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Copper_Sheet">
+      <data key="d0">Copper Sheet</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Copper_Sheet
+Item name: Copper Sheet
+Item link: https://satisfactory.fandom.com/wiki/Copper_Sheet
+
+</data>
+    </node>
+    <node id="53_Copper_Sheet">
+      <data key="d0">53_Copper_Sheet</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 53_Copper_Sheet
+		Time: 6
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="54_Steamed_Copper_Sheet">
+      <data key="d0">54_Steamed_Copper_Sheet</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 54_Steamed_Copper_Sheet
+		Time: 8
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Crude_Oil">
+      <data key="d0">Crude Oil</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Crude_Oil
+Item name: Crude Oil
+Item link: https://satisfactory.fandom.com/wiki/Crude_Oil
+
+</data>
+    </node>
+    <node id="55_Crude_Oil">
+      <data key="d0">55_Crude_Oil</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 55_Crude_Oil
+		Time: 1
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="56_Unpackage_Oil">
+      <data key="d0">56_Unpackage_Oil</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 56_Unpackage_Oil
+		Time: 2
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Crystal_Oscillator">
+      <data key="d0">Crystal Oscillator</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Crystal_Oscillator
+Item name: Crystal Oscillator
+Item link: https://satisfactory.fandom.com/wiki/Crystal_Oscillator
+
+</data>
+    </node>
+    <node id="57_Crystal_Oscillator">
+      <data key="d0">57_Crystal_Oscillator</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 57_Crystal_Oscillator
+		Time: 120
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="58_Insulated_Crystal_Oscillator">
+      <data key="d0">58_Insulated_Crystal_Oscillator</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 58_Insulated_Crystal_Oscillator
+		Time: 32
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Cup">
+      <data key="d0">Cup</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Cup
+Item name: Cup
+Item link: https://satisfactory.fandom.com/wiki/Cup
+
+</data>
+    </node>
+    <node id="Electromagnetic_Control_Rod">
+      <data key="d0">Electromagnetic Control Rod</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Electromagnetic_Control_Rod
+Item name: Electromagnetic Control Rod
+Item link: https://satisfactory.fandom.com/wiki/Electromagnetic_Control_Rod
+
+</data>
+    </node>
+    <node id="59_Electromagnetic_Control_Rod">
+      <data key="d0">59_Electromagnetic_Control_Rod</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 59_Electromagnetic_Control_Rod
+		Time: 30
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="60_Electromagnetic_Connection_Rod">
+      <data key="d0">60_Electromagnetic_Connection_Rod</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 60_Electromagnetic_Connection_Rod
+		Time: 15
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Empty_Canister">
+      <data key="d0">Empty Canister</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Empty_Canister
+Item name: Empty Canister
+Item link: https://satisfactory.fandom.com/wiki/Empty_Canister
+
+</data>
+    </node>
+    <node id="61_Empty_Canister">
+      <data key="d0">61_Empty_Canister</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 61_Empty_Canister
+		Time: 4
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="62_Unpackage_Heavy_Oil_Residue">
+      <data key="d0">62_Unpackage_Heavy_Oil_Residue</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 62_Unpackage_Heavy_Oil_Residue
+		Time: 6
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="63_Unpackage_Alumina_Solution">
+      <data key="d0">63_Unpackage_Alumina_Solution</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 63_Unpackage_Alumina_Solution
+		Time: 1
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="64_Unpackage_Sulfuric_Acid">
+      <data key="d0">64_Unpackage_Sulfuric_Acid</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 64_Unpackage_Sulfuric_Acid
+		Time: 1
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="65_Unpackage_Water">
+      <data key="d0">65_Unpackage_Water</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 65_Unpackage_Water
+		Time: 1
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="66_Unpackage_Turbofuel">
+      <data key="d0">66_Unpackage_Turbofuel</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 66_Unpackage_Turbofuel
+		Time: 6
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="67_Unpackage_Fuel">
+      <data key="d0">67_Unpackage_Fuel</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 67_Unpackage_Fuel
+		Time: 2
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="68_Unpackage_Liquid_Biofuel">
+      <data key="d0">68_Unpackage_Liquid_Biofuel</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 68_Unpackage_Liquid_Biofuel
+		Time: 2
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="69_Unpackage_Oil">
+      <data key="d0">69_Unpackage_Oil</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 69_Unpackage_Oil
+		Time: 2
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="70_Steel_Canister">
+      <data key="d0">70_Steel_Canister</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 70_Steel_Canister
+		Time: 3
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="71_Coated_Iron_Canister">
+      <data key="d0">71_Coated_Iron_Canister</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 71_Coated_Iron_Canister
+		Time: 4
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Empty_Fluid_Tank">
+      <data key="d0">Empty Fluid Tank</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Empty_Fluid_Tank
+Item name: Empty Fluid Tank
+Item link: https://satisfactory.fandom.com/wiki/Empty_Fluid_Tank
+
+</data>
+    </node>
+    <node id="72_Empty_Fluid_Tank">
+      <data key="d0">72_Empty_Fluid_Tank</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 72_Empty_Fluid_Tank
+		Time: 1
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="73_Unpackage_Nitric_Acid">
+      <data key="d0">73_Unpackage_Nitric_Acid</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 73_Unpackage_Nitric_Acid
+		Time: 3
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="74_Unpackage_Nitrogen_Gas">
+      <data key="d0">74_Unpackage_Nitrogen_Gas</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 74_Unpackage_Nitrogen_Gas
+		Time: 1
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Encased_Industrial_Beam">
+      <data key="d0">Encased Industrial Beam</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Encased_Industrial_Beam
+Item name: Encased Industrial Beam
+Item link: https://satisfactory.fandom.com/wiki/Encased_Industrial_Beam
+
+</data>
+    </node>
+    <node id="75_Encased_Industrial_Beam">
+      <data key="d0">75_Encased_Industrial_Beam</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 75_Encased_Industrial_Beam
+		Time: 10
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="76_Encased_Industrial_Pipe">
+      <data key="d0">76_Encased_Industrial_Pipe</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 76_Encased_Industrial_Pipe
+		Time: 15
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Encased_Plutonium_Cell">
+      <data key="d0">Encased Plutonium Cell</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Encased_Plutonium_Cell
+Item name: Encased Plutonium Cell
+Item link: https://satisfactory.fandom.com/wiki/Encased_Plutonium_Cell
+
+</data>
+    </node>
+    <node id="77_Encased_Plutonium_Cell">
+      <data key="d0">77_Encased_Plutonium_Cell</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 77_Encased_Plutonium_Cell
+		Time: 12
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="78_Instant_Plutonium_Cell">
+      <data key="d0">78_Instant_Plutonium_Cell</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 78_Instant_Plutonium_Cell
+		Time: 120
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Encased_Uranium_Cell">
+      <data key="d0">Encased Uranium Cell</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Encased_Uranium_Cell
+Item name: Encased Uranium Cell
+Item link: https://satisfactory.fandom.com/wiki/Encased_Uranium_Cell
+
+</data>
+    </node>
+    <node id="79_Encased_Uranium_Cell">
+      <data key="d0">79_Encased_Uranium_Cell</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 79_Encased_Uranium_Cell
+		Time: 12
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="80_Infused_Uranium_Cell">
+      <data key="d0">80_Infused_Uranium_Cell</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 80_Infused_Uranium_Cell
+		Time: 12
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Fabric">
+      <data key="d0">Fabric</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Fabric
+Item name: Fabric
+Item link: https://satisfactory.fandom.com/wiki/Fabric
+
+</data>
+    </node>
+    <node id="81_Fabric">
+      <data key="d0">81_Fabric</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 81_Fabric
+		Time: 4
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="82_Polyester_Fabric">
+      <data key="d0">82_Polyester_Fabric</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 82_Polyester_Fabric
+		Time: 12
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="FICSIT_Coupon">
+      <data key="d0">FICSIT Coupon</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: FICSIT_Coupon
+Item name: FICSIT Coupon
+Item link: https://satisfactory.fandom.com/wiki/FICSIT_Coupon
+
+</data>
+    </node>
+    <node id="Flower_Petals">
+      <data key="d0">Flower Petals</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Flower_Petals
+Item name: Flower Petals
+Item link: https://satisfactory.fandom.com/wiki/Flower_Petals
+
+</data>
+    </node>
+    <node id="Fused_Modular_Frame">
+      <data key="d0">Fused Modular Frame</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Fused_Modular_Frame
+Item name: Fused Modular Frame
+Item link: https://satisfactory.fandom.com/wiki/Fused_Modular_Frame
+
+</data>
+    </node>
+    <node id="83_Fused_Modular_Frame">
+      <data key="d0">83_Fused_Modular_Frame</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 83_Fused_Modular_Frame
+		Time: 40
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="84_Heat-Fused_Frame">
+      <data key="d0">84_Heat-Fused_Frame</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 84_Heat-Fused_Frame
+		Time: 20
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Gas_Mask">
+      <data key="d0">Gas Mask</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Gas_Mask
+Item name: Gas Mask
+Item link: https://satisfactory.fandom.com/wiki/Gas_Mask
+
+</data>
+    </node>
+    <node id="85_Gas_Mask">
+      <data key="d0">85_Gas_Mask</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 85_Gas_Mask
+		Time: 0.0
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Hard_Drive">
+      <data key="d0">Hard Drive</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Hard_Drive
+Item name: Hard Drive
+Item link: https://satisfactory.fandom.com/wiki/Hard_Drive
+
+</data>
+    </node>
+    <node id="Hazmat_Suit">
+      <data key="d0">Hazmat Suit</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Hazmat_Suit
+Item name: Hazmat Suit
+Item link: https://satisfactory.fandom.com/wiki/Hazmat_Suit
+
+</data>
+    </node>
+    <node id="86_Hazmat_Suit">
+      <data key="d0">86_Hazmat_Suit</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 86_Hazmat_Suit
+		Time: 0.0
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Heat_Sink">
+      <data key="d0">Heat Sink</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Heat_Sink
+Item name: Heat Sink
+Item link: https://satisfactory.fandom.com/wiki/Heat_Sink
+
+</data>
+    </node>
+    <node id="87_Heat_Sink">
+      <data key="d0">87_Heat_Sink</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 87_Heat_Sink
+		Time: 8
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="88_Heat_Exchanger">
+      <data key="d0">88_Heat_Exchanger</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 88_Heat_Exchanger
+		Time: 6
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Heavy_Modular_Frame">
+      <data key="d0">Heavy Modular Frame</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Heavy_Modular_Frame
+Item name: Heavy Modular Frame
+Item link: https://satisfactory.fandom.com/wiki/Heavy_Modular_Frame
+
+</data>
+    </node>
+    <node id="89_Heavy_Modular_Frame">
+      <data key="d0">89_Heavy_Modular_Frame</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 89_Heavy_Modular_Frame
+		Time: 30
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="90_Heavy_Flexible_Frame">
+      <data key="d0">90_Heavy_Flexible_Frame</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 90_Heavy_Flexible_Frame
+		Time: 16
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="91_Heavy_Encased_Frame">
+      <data key="d0">91_Heavy_Encased_Frame</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 91_Heavy_Encased_Frame
+		Time: 64
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="High-Speed_Connector">
+      <data key="d0">High-Speed Connector</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: High-Speed_Connector
+Item name: High-Speed Connector
+Item link: https://satisfactory.fandom.com/wiki/High-Speed_Connector
+
+</data>
+    </node>
+    <node id="92_High-Speed_Connector">
+      <data key="d0">92_High-Speed_Connector</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 92_High-Speed_Connector
+		Time: 16
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="93_Silicon_High-Speed_Connector">
+      <data key="d0">93_Silicon_High-Speed_Connector</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 93_Silicon_High-Speed_Connector
+		Time: 40
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Hover_Pack">
+      <data key="d0">Hover Pack</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Hover_Pack
+Item name: Hover Pack
+Item link: https://satisfactory.fandom.com/wiki/Hover_Pack
+
+</data>
+    </node>
+    <node id="94_Hover_Pack">
+      <data key="d0">94_Hover_Pack</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 94_Hover_Pack
+		Time: 0.0
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="HUB_Parts">
+      <data key="d0">HUB Parts</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: HUB_Parts
+Item name: HUB Parts
+Item link: https://satisfactory.fandom.com/wiki/HUB_Parts
+
+</data>
+    </node>
+    <node id="Iron_Ingot">
+      <data key="d0">Iron Ingot</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Iron_Ingot
+Item name: Iron Ingot
+Item link: https://satisfactory.fandom.com/wiki/Iron_Ingot
+
+</data>
+    </node>
+    <node id="95_Iron_Ingot">
+      <data key="d0">95_Iron_Ingot</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 95_Iron_Ingot
+		Time: 2
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="96_Pure_Iron_Ingot">
+      <data key="d0">96_Pure_Iron_Ingot</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 96_Pure_Iron_Ingot
+		Time: 12
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="97_Iron_Alloy_Ingot">
+      <data key="d0">97_Iron_Alloy_Ingot</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 97_Iron_Alloy_Ingot
+		Time: 6
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Iron_Ore">
+      <data key="d0">Iron Ore</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Iron_Ore
+Item name: Iron Ore
+Item link: https://satisfactory.fandom.com/wiki/Iron_Ore
+
+</data>
+    </node>
+    <node id="Iron_Plate">
+      <data key="d0">Iron Plate</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Iron_Plate
+Item name: Iron Plate
+Item link: https://satisfactory.fandom.com/wiki/Iron_Plate
+
+</data>
+    </node>
+    <node id="98_Iron_Plate">
+      <data key="d0">98_Iron_Plate</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 98_Iron_Plate
+		Time: 6
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="99_Coated_Iron_Plate">
+      <data key="d0">99_Coated_Iron_Plate</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 99_Coated_Iron_Plate
+		Time: 12
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="100_Steel_Coated_Plate">
+      <data key="d0">100_Steel_Coated_Plate</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 100_Steel_Coated_Plate
+		Time: 24
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Iron_Rod">
+      <data key="d0">Iron Rod</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Iron_Rod
+Item name: Iron Rod
+Item link: https://satisfactory.fandom.com/wiki/Iron_Rod
+
+</data>
+    </node>
+    <node id="101_Iron_Rod">
+      <data key="d0">101_Iron_Rod</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 101_Iron_Rod
+		Time: 4
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="102_Steel_Rod">
+      <data key="d0">102_Steel_Rod</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 102_Steel_Rod
+		Time: 5
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Jetpack">
+      <data key="d0">Jetpack</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Jetpack
+Item name: Jetpack
+Item link: https://satisfactory.fandom.com/wiki/Jetpack
+
+</data>
+    </node>
+    <node id="103_Jetpack">
+      <data key="d0">103_Jetpack</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 103_Jetpack
+		Time: 0.0
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Leaves">
+      <data key="d0">Leaves</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Leaves
+Item name: Leaves
+Item link: https://satisfactory.fandom.com/wiki/Leaves
+
+</data>
+    </node>
+    <node id="Limestone">
+      <data key="d0">Limestone</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Limestone
+Item name: Limestone
+Item link: https://satisfactory.fandom.com/wiki/Limestone
+
+</data>
+    </node>
+    <node id="Magnetic_Field_Generator">
+      <data key="d0">Magnetic Field Generator</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Magnetic_Field_Generator
+Item name: Magnetic Field Generator
+Item link: https://satisfactory.fandom.com/wiki/Magnetic_Field_Generator
+
+</data>
+    </node>
+    <node id="104_Magnetic_Field_Generator">
+      <data key="d0">104_Magnetic_Field_Generator</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 104_Magnetic_Field_Generator
+		Time: 120
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Medicinal_Inhaler">
+      <data key="d0">Medicinal Inhaler</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Medicinal_Inhaler
+Item name: Medicinal Inhaler
+Item link: https://satisfactory.fandom.com/wiki/Medicinal_Inhaler
+
+</data>
+    </node>
+    <node id="105_Nutritional_Inhaler">
+      <data key="d0">105_Nutritional_Inhaler</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 105_Nutritional_Inhaler
+		Time: 0.0
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="106_Medicinal_Inhaler:_Alien_Organs">
+      <data key="d0">106_Medicinal_Inhaler:_Alien_Organs</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 106_Medicinal_Inhaler:_Alien_Organs
+		Time: 0.0
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="107_Medicinal_Inhaler">
+      <data key="d0">107_Medicinal_Inhaler</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 107_Medicinal_Inhaler
+		Time: 0.0
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Mercer_Sphere">
+      <data key="d0">Mercer Sphere</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Mercer_Sphere
+Item name: Mercer Sphere
+Item link: https://satisfactory.fandom.com/wiki/Mercer_Sphere
+
+</data>
+    </node>
+    <node id="Modular_Engine">
+      <data key="d0">Modular Engine</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Modular_Engine
+Item name: Modular Engine
+Item link: https://satisfactory.fandom.com/wiki/Modular_Engine
+
+</data>
+    </node>
+    <node id="108_Modular_Engine">
+      <data key="d0">108_Modular_Engine</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 108_Modular_Engine
+		Time: 60
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Modular_Frame">
+      <data key="d0">Modular Frame</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Modular_Frame
+Item name: Modular Frame
+Item link: https://satisfactory.fandom.com/wiki/Modular_Frame
+
+</data>
+    </node>
+    <node id="109_Modular_Frame">
+      <data key="d0">109_Modular_Frame</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 109_Modular_Frame
+		Time: 60
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="110_Bolted_Frame">
+      <data key="d0">110_Bolted_Frame</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 110_Bolted_Frame
+		Time: 24
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="111_Steeled_Frame">
+      <data key="d0">111_Steeled_Frame</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 111_Steeled_Frame
+		Time: 60
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Motor">
+      <data key="d0">Motor</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Motor
+Item name: Motor
+Item link: https://satisfactory.fandom.com/wiki/Motor
+
+</data>
+    </node>
+    <node id="112_Motor">
+      <data key="d0">112_Motor</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 112_Motor
+		Time: 12
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="113_Rigour_Motor">
+      <data key="d0">113_Rigour_Motor</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 113_Rigour_Motor
+		Time: 48
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="114_Electric_Motor">
+      <data key="d0">114_Electric_Motor</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 114_Electric_Motor
+		Time: 16
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Mycelia">
+      <data key="d0">Mycelia</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Mycelia
+Item name: Mycelia
+Item link: https://satisfactory.fandom.com/wiki/Mycelia
+
+</data>
+    </node>
+    <node id="Non-fissile_Uranium">
+      <data key="d0">Non-fissile Uranium</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Non-fissile_Uranium
+Item name: Non-fissile Uranium
+Item link: https://satisfactory.fandom.com/wiki/Non-fissile_Uranium
+
+</data>
+    </node>
+    <node id="115_Non-fissile_Uranium">
+      <data key="d0">115_Non-fissile_Uranium</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 115_Non-fissile_Uranium
+		Time: 24
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="116_Fertile_Uranium">
+      <data key="d0">116_Fertile_Uranium</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 116_Fertile_Uranium
+		Time: 12
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Nuclear_Pasta">
+      <data key="d0">Nuclear Pasta</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Nuclear_Pasta
+Item name: Nuclear Pasta
+Item link: https://satisfactory.fandom.com/wiki/Nuclear_Pasta
+
+</data>
+    </node>
+    <node id="117_Nuclear_Pasta">
+      <data key="d0">117_Nuclear_Pasta</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 117_Nuclear_Pasta
+		Time: 120
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Object_Scanner">
+      <data key="d0">Object Scanner</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Object_Scanner
+Item name: Object Scanner
+Item link: https://satisfactory.fandom.com/wiki/Object_Scanner
+
+</data>
+    </node>
+    <node id="118_Object_Scanner">
+      <data key="d0">118_Object_Scanner</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 118_Object_Scanner
+		Time: 0.0
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Packaged_Alumina_Solution">
+      <data key="d0">Packaged Alumina Solution</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Packaged_Alumina_Solution
+Item name: Packaged Alumina Solution
+Item link: https://satisfactory.fandom.com/wiki/Packaged_Alumina_Solution
+
+</data>
+    </node>
+    <node id="119_Packaged_Alumina_Solution">
+      <data key="d0">119_Packaged_Alumina_Solution</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 119_Packaged_Alumina_Solution
+		Time: 1
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Packaged_Fuel">
+      <data key="d0">Packaged Fuel</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Packaged_Fuel
+Item name: Packaged Fuel
+Item link: https://satisfactory.fandom.com/wiki/Packaged_Fuel
+
+</data>
+    </node>
+    <node id="120_Packaged_Fuel">
+      <data key="d0">120_Packaged_Fuel</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 120_Packaged_Fuel
+		Time: 3
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="121_Diluted_Packaged_Fuel">
+      <data key="d0">121_Diluted_Packaged_Fuel</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 121_Diluted_Packaged_Fuel
+		Time: 2
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Packaged_Heavy_Oil_Residue">
+      <data key="d0">Packaged Heavy Oil Residue</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Packaged_Heavy_Oil_Residue
+Item name: Packaged Heavy Oil Residue
+Item link: https://satisfactory.fandom.com/wiki/Packaged_Heavy_Oil_Residue
+
+</data>
+    </node>
+    <node id="122_Packaged_Heavy_Oil_Residue">
+      <data key="d0">122_Packaged_Heavy_Oil_Residue</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 122_Packaged_Heavy_Oil_Residue
+		Time: 4
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Packaged_Liquid_Biofuel">
+      <data key="d0">Packaged Liquid Biofuel</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Packaged_Liquid_Biofuel
+Item name: Packaged Liquid Biofuel
+Item link: https://satisfactory.fandom.com/wiki/Packaged_Liquid_Biofuel
+
+</data>
+    </node>
+    <node id="123_Packaged_Liquid_Biofuel">
+      <data key="d0">123_Packaged_Liquid_Biofuel</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 123_Packaged_Liquid_Biofuel
+		Time: 3
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Packaged_Nitric_Acid">
+      <data key="d0">Packaged Nitric Acid</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Packaged_Nitric_Acid
+Item name: Packaged Nitric Acid
+Item link: https://satisfactory.fandom.com/wiki/Packaged_Nitric_Acid
+
+</data>
+    </node>
+    <node id="124_Packaged_Nitric_Acid">
+      <data key="d0">124_Packaged_Nitric_Acid</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 124_Packaged_Nitric_Acid
+		Time: 2
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Packaged_Nitrogen_Gas">
+      <data key="d0">Packaged Nitrogen Gas</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Packaged_Nitrogen_Gas
+Item name: Packaged Nitrogen Gas
+Item link: https://satisfactory.fandom.com/wiki/Packaged_Nitrogen_Gas
+
+</data>
+    </node>
+    <node id="125_Packaged_Nitrogen_Gas">
+      <data key="d0">125_Packaged_Nitrogen_Gas</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 125_Packaged_Nitrogen_Gas
+		Time: 1
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Packaged_Oil">
+      <data key="d0">Packaged Oil</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Packaged_Oil
+Item name: Packaged Oil
+Item link: https://satisfactory.fandom.com/wiki/Packaged_Oil
+
+</data>
+    </node>
+    <node id="126_Packaged_Oil">
+      <data key="d0">126_Packaged_Oil</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 126_Packaged_Oil
+		Time: 4
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Packaged_Sulfuric_Acid">
+      <data key="d0">Packaged Sulfuric Acid</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Packaged_Sulfuric_Acid
+Item name: Packaged Sulfuric Acid
+Item link: https://satisfactory.fandom.com/wiki/Packaged_Sulfuric_Acid
+
+</data>
+    </node>
+    <node id="127_Packaged_Sulfuric_Acid">
+      <data key="d0">127_Packaged_Sulfuric_Acid</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 127_Packaged_Sulfuric_Acid
+		Time: 3
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Packaged_Turbofuel">
+      <data key="d0">Packaged Turbofuel</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Packaged_Turbofuel
+Item name: Packaged Turbofuel
+Item link: https://satisfactory.fandom.com/wiki/Packaged_Turbofuel
+
+</data>
+    </node>
+    <node id="128_Packaged_Turbofuel">
+      <data key="d0">128_Packaged_Turbofuel</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 128_Packaged_Turbofuel
+		Time: 6
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Packaged_Water">
+      <data key="d0">Packaged Water</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Packaged_Water
+Item name: Packaged Water
+Item link: https://satisfactory.fandom.com/wiki/Packaged_Water
+
+</data>
+    </node>
+    <node id="129_Packaged_Water">
+      <data key="d0">129_Packaged_Water</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 129_Packaged_Water
+		Time: 2
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Paleberry">
+      <data key="d0">Paleberry</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Paleberry
+Item name: Paleberry
+Item link: https://satisfactory.fandom.com/wiki/Paleberry
+
+</data>
+    </node>
+    <node id="Parachute">
+      <data key="d0">Parachute</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Parachute
+Item name: Parachute
+Item link: https://satisfactory.fandom.com/wiki/Parachute
+
+</data>
+    </node>
+    <node id="130_Parachute">
+      <data key="d0">130_Parachute</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 130_Parachute
+		Time: 0.0
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Petroleum_Coke">
+      <data key="d0">Petroleum Coke</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Petroleum_Coke
+Item name: Petroleum Coke
+Item link: https://satisfactory.fandom.com/wiki/Petroleum_Coke
+
+</data>
+    </node>
+    <node id="131_Petroleum_Coke">
+      <data key="d0">131_Petroleum_Coke</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 131_Petroleum_Coke
+		Time: 6
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Plastic">
+      <data key="d0">Plastic</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Plastic
+Item name: Plastic
+Item link: https://satisfactory.fandom.com/wiki/Plastic
+
+</data>
+    </node>
+    <node id="132_Plastic">
+      <data key="d0">132_Plastic</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 132_Plastic
+		Time: 6
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="133_Residual_Plastic">
+      <data key="d0">133_Residual_Plastic</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 133_Residual_Plastic
+		Time: 6
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="134_Recycled_Plastic">
+      <data key="d0">134_Recycled_Plastic</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 134_Recycled_Plastic
+		Time: 12
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Plutonium_Fuel_Rod">
+      <data key="d0">Plutonium Fuel Rod</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Plutonium_Fuel_Rod
+Item name: Plutonium Fuel Rod
+Item link: https://satisfactory.fandom.com/wiki/Plutonium_Fuel_Rod
+
+</data>
+    </node>
+    <node id="135_Plutonium_Fuel_Rod">
+      <data key="d0">135_Plutonium_Fuel_Rod</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 135_Plutonium_Fuel_Rod
+		Time: 240
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="136_Plutonium_Fuel_Unit">
+      <data key="d0">136_Plutonium_Fuel_Unit</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 136_Plutonium_Fuel_Unit
+		Time: 120
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Plutonium_Pellet">
+      <data key="d0">Plutonium Pellet</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Plutonium_Pellet
+Item name: Plutonium Pellet
+Item link: https://satisfactory.fandom.com/wiki/Plutonium_Pellet
+
+</data>
+    </node>
+    <node id="137_Plutonium_Pellet">
+      <data key="d0">137_Plutonium_Pellet</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 137_Plutonium_Pellet
+		Time: 60
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Plutonium_Waste">
+      <data key="d0">Plutonium Waste</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Plutonium_Waste
+Item name: Plutonium Waste
+Item link: https://satisfactory.fandom.com/wiki/Plutonium_Waste
+
+</data>
+    </node>
+    <node id="138_Plutonium_Waste">
+      <data key="d0">138_Plutonium_Waste</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 138_Plutonium_Waste
+		Time: 600
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Polymer_Resin">
+      <data key="d0">Polymer Resin</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Polymer_Resin
+Item name: Polymer Resin
+Item link: https://satisfactory.fandom.com/wiki/Polymer_Resin
+
+</data>
+    </node>
+    <node id="139_Fuel">
+      <data key="d0">139_Fuel</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 139_Fuel
+		Time: 6
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="140_Polymer_Resin">
+      <data key="d0">140_Polymer_Resin</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 140_Polymer_Resin
+		Time: 6
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="141_Heavy_Oil_Residue">
+      <data key="d0">141_Heavy_Oil_Residue</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 141_Heavy_Oil_Residue
+		Time: 6
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Power_Shard">
+      <data key="d0">Power Shard</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Power_Shard
+Item name: Power Shard
+Item link: https://satisfactory.fandom.com/wiki/Power_Shard
+
+</data>
+    </node>
+    <node id="142_Power_Shard_(1)">
+      <data key="d0">142_Power_Shard_(1)</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 142_Power_Shard_(1)
+		Time: 8
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="143_Power_Shard_(2)">
+      <data key="d0">143_Power_Shard_(2)</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 143_Power_Shard_(2)
+		Time: 12
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="144_Power_Shard_(5)">
+      <data key="d0">144_Power_Shard_(5)</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 144_Power_Shard_(5)
+		Time: 24
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Power_Slug">
+      <data key="d0">Power Slug</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Power_Slug
+Item name: Power Slug
+Item link: https://satisfactory.fandom.com/wiki/Power_Slug
+
+</data>
+    </node>
+    <node id="Pressure_Conversion_Cube">
+      <data key="d0">Pressure Conversion Cube</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Pressure_Conversion_Cube
+Item name: Pressure Conversion Cube
+Item link: https://satisfactory.fandom.com/wiki/Pressure_Conversion_Cube
+
+</data>
+    </node>
+    <node id="145_Pressure_Conversion_Cube">
+      <data key="d0">145_Pressure_Conversion_Cube</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 145_Pressure_Conversion_Cube
+		Time: 60
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Quantum_Computer">
+      <data key="d0">Quantum Computer</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Quantum_Computer
+Item name: Quantum Computer
+Item link: https://satisfactory.fandom.com/wiki/Quantum_Computer
+
+</data>
+    </node>
+    <node id="Quartz_Crystal">
+      <data key="d0">Quartz Crystal</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Quartz_Crystal
+Item name: Quartz Crystal
+Item link: https://satisfactory.fandom.com/wiki/Quartz_Crystal
+
+</data>
+    </node>
+    <node id="146_Quartz_Crystal">
+      <data key="d0">146_Quartz_Crystal</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 146_Quartz_Crystal
+		Time: 8
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="147_Pure_Quartz_Crystal">
+      <data key="d0">147_Pure_Quartz_Crystal</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 147_Pure_Quartz_Crystal
+		Time: 8
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Quickwire">
+      <data key="d0">Quickwire</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Quickwire
+Item name: Quickwire
+Item link: https://satisfactory.fandom.com/wiki/Quickwire
+
+</data>
+    </node>
+    <node id="148_Quickwire">
+      <data key="d0">148_Quickwire</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 148_Quickwire
+		Time: 5
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="149_Fused_Quickwire">
+      <data key="d0">149_Fused_Quickwire</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 149_Fused_Quickwire
+		Time: 8
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Radio_Control_Unit">
+      <data key="d0">Radio Control Unit</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Radio_Control_Unit
+Item name: Radio Control Unit
+Item link: https://satisfactory.fandom.com/wiki/Radio_Control_Unit
+
+</data>
+    </node>
+    <node id="150_Radio_Control_Unit">
+      <data key="d0">150_Radio_Control_Unit</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 150_Radio_Control_Unit
+		Time: 48
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="151_Radio_Control_System">
+      <data key="d0">151_Radio_Control_System</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 151_Radio_Control_System
+		Time: 40
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="152_Radio_Connection_Unit">
+      <data key="d0">152_Radio_Connection_Unit</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 152_Radio_Connection_Unit
+		Time: 16
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Raw_Quartz">
+      <data key="d0">Raw Quartz</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Raw_Quartz
+Item name: Raw Quartz
+Item link: https://satisfactory.fandom.com/wiki/Raw_Quartz
+
+</data>
+    </node>
+    <node id="Rebar_Gun">
+      <data key="d0">Rebar Gun</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Rebar_Gun
+Item name: Rebar Gun
+Item link: https://satisfactory.fandom.com/wiki/Rebar_Gun
+
+</data>
+    </node>
+    <node id="153_Rebar_Gun">
+      <data key="d0">153_Rebar_Gun</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 153_Rebar_Gun
+		Time: 0.0
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Reinforced_Iron_Plate">
+      <data key="d0">Reinforced Iron Plate</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Reinforced_Iron_Plate
+Item name: Reinforced Iron Plate
+Item link: https://satisfactory.fandom.com/wiki/Reinforced_Iron_Plate
+
+</data>
+    </node>
+    <node id="154_Reinforced_Iron_Plate">
+      <data key="d0">154_Reinforced_Iron_Plate</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 154_Reinforced_Iron_Plate
+		Time: 12
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="155_Adhered_Iron_Plate">
+      <data key="d0">155_Adhered_Iron_Plate</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 155_Adhered_Iron_Plate
+		Time: 16
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="156_Bolted_Iron_Plate">
+      <data key="d0">156_Bolted_Iron_Plate</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 156_Bolted_Iron_Plate
+		Time: 12
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="157_Stitched_Iron_Plate">
+      <data key="d0">157_Stitched_Iron_Plate</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 157_Stitched_Iron_Plate
+		Time: 32
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Rifle">
+      <data key="d0">Rifle</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Rifle
+Item name: Rifle
+Item link: https://satisfactory.fandom.com/wiki/Rifle
+
+</data>
+    </node>
+    <node id="158_Rifle">
+      <data key="d0">158_Rifle</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 158_Rifle
+		Time: 0.0
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Rotor">
+      <data key="d0">Rotor</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Rotor
+Item name: Rotor
+Item link: https://satisfactory.fandom.com/wiki/Rotor
+
+</data>
+    </node>
+    <node id="159_Rotor">
+      <data key="d0">159_Rotor</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 159_Rotor
+		Time: 15
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="160_Copper_Rotor">
+      <data key="d0">160_Copper_Rotor</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 160_Copper_Rotor
+		Time: 16
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="161_Steel_Rotor">
+      <data key="d0">161_Steel_Rotor</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 161_Steel_Rotor
+		Time: 12
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Rubber">
+      <data key="d0">Rubber</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Rubber
+Item name: Rubber
+Item link: https://satisfactory.fandom.com/wiki/Rubber
+
+</data>
+    </node>
+    <node id="162_Rubber">
+      <data key="d0">162_Rubber</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 162_Rubber
+		Time: 6
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="163_Residual_Rubber">
+      <data key="d0">163_Residual_Rubber</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 163_Residual_Rubber
+		Time: 6
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="164_Recycled_Rubber">
+      <data key="d0">164_Recycled_Rubber</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 164_Recycled_Rubber
+		Time: 12
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="SAM_Ore">
+      <data key="d0">SAM Ore</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: SAM_Ore
+Item name: SAM Ore
+Item link: https://satisfactory.fandom.com/wiki/SAM_Ore
+
+</data>
+    </node>
+    <node id="Screw">
+      <data key="d0">Screw</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Screw
+Item name: Screw
+Item link: https://satisfactory.fandom.com/wiki/Screw
+
+</data>
+    </node>
+    <node id="165_Screw">
+      <data key="d0">165_Screw</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 165_Screw
+		Time: 6
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="166_Cast_Screw">
+      <data key="d0">166_Cast_Screw</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 166_Cast_Screw
+		Time: 24
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="167_Steel_Screw">
+      <data key="d0">167_Steel_Screw</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 167_Steel_Screw
+		Time: 12
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Silica">
+      <data key="d0">Silica</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Silica
+Item name: Silica
+Item link: https://satisfactory.fandom.com/wiki/Silica
+
+</data>
+    </node>
+    <node id="168_Alumina_Solution">
+      <data key="d0">168_Alumina_Solution</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 168_Alumina_Solution
+		Time: 6
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="169_Silica">
+      <data key="d0">169_Silica</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 169_Silica
+		Time: 8
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="170_Cheap_Silica">
+      <data key="d0">170_Cheap_Silica</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 170_Cheap_Silica
+		Time: 16
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Smart_Plating">
+      <data key="d0">Smart Plating</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Smart_Plating
+Item name: Smart Plating
+Item link: https://satisfactory.fandom.com/wiki/Smart_Plating
+
+</data>
+    </node>
+    <node id="171_Smart_Plating">
+      <data key="d0">171_Smart_Plating</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 171_Smart_Plating
+		Time: 30
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="172_Plastic_Smart_Plating">
+      <data key="d0">172_Plastic_Smart_Plating</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 172_Plastic_Smart_Plating
+		Time: 24
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Solid_Biofuel">
+      <data key="d0">Solid Biofuel</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Solid_Biofuel
+Item name: Solid Biofuel
+Item link: https://satisfactory.fandom.com/wiki/Solid_Biofuel
+
+</data>
+    </node>
+    <node id="173_Solid_Biofuel">
+      <data key="d0">173_Solid_Biofuel</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 173_Solid_Biofuel
+		Time: 4
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Somersloop">
+      <data key="d0">Somersloop</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Somersloop
+Item name: Somersloop
+Item link: https://satisfactory.fandom.com/wiki/Somersloop
+
+</data>
+    </node>
+    <node id="Stator">
+      <data key="d0">Stator</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Stator
+Item name: Stator
+Item link: https://satisfactory.fandom.com/wiki/Stator
+
+</data>
+    </node>
+    <node id="174_Stator">
+      <data key="d0">174_Stator</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 174_Stator
+		Time: 12
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="175_Quickwire_Stator">
+      <data key="d0">175_Quickwire_Stator</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 175_Quickwire_Stator
+		Time: 15
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Statue">
+      <data key="d0">Statue</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Statue
+Item name: Statue
+Item link: https://satisfactory.fandom.com/wiki/Statue
+
+</data>
+    </node>
+    <node id="Steel_Beam">
+      <data key="d0">Steel Beam</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Steel_Beam
+Item name: Steel Beam
+Item link: https://satisfactory.fandom.com/wiki/Steel_Beam
+
+</data>
+    </node>
+    <node id="176_Steel_Beam">
+      <data key="d0">176_Steel_Beam</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 176_Steel_Beam
+		Time: 4
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Steel_Ingot">
+      <data key="d0">Steel Ingot</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Steel_Ingot
+Item name: Steel Ingot
+Item link: https://satisfactory.fandom.com/wiki/Steel_Ingot
+
+</data>
+    </node>
+    <node id="177_Steel_Ingot">
+      <data key="d0">177_Steel_Ingot</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 177_Steel_Ingot
+		Time: 4
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="178_Coke_Steel_Ingot">
+      <data key="d0">178_Coke_Steel_Ingot</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 178_Coke_Steel_Ingot
+		Time: 12
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="179_Compacted_Steel_Ingot">
+      <data key="d0">179_Compacted_Steel_Ingot</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 179_Compacted_Steel_Ingot
+		Time: 16
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="180_Solid_Steel_Ingot">
+      <data key="d0">180_Solid_Steel_Ingot</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 180_Solid_Steel_Ingot
+		Time: 3
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Steel_Pipe">
+      <data key="d0">Steel Pipe</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Steel_Pipe
+Item name: Steel Pipe
+Item link: https://satisfactory.fandom.com/wiki/Steel_Pipe
+
+</data>
+    </node>
+    <node id="181_Steel_Pipe">
+      <data key="d0">181_Steel_Pipe</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 181_Steel_Pipe
+		Time: 6
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Sulfur">
+      <data key="d0">Sulfur</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Sulfur
+Item name: Sulfur
+Item link: https://satisfactory.fandom.com/wiki/Sulfur
+
+</data>
+    </node>
+    <node id="Supercomputer">
+      <data key="d0">Supercomputer</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Supercomputer
+Item name: Supercomputer
+Item link: https://satisfactory.fandom.com/wiki/Supercomputer
+
+</data>
+    </node>
+    <node id="182_Supercomputer">
+      <data key="d0">182_Supercomputer</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 182_Supercomputer
+		Time: 32
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="183_OC_Supercomputer">
+      <data key="d0">183_OC_Supercomputer</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 183_OC_Supercomputer
+		Time: 20
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="184_Super-State_Computer">
+      <data key="d0">184_Super-State_Computer</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 184_Super-State_Computer
+		Time: 50
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Superposition_Oscillator">
+      <data key="d0">Superposition Oscillator</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Superposition_Oscillator
+Item name: Superposition Oscillator
+Item link: https://satisfactory.fandom.com/wiki/Superposition_Oscillator
+
+</data>
+    </node>
+    <node id="Thermal_Propulsion_Rocket">
+      <data key="d0">Thermal Propulsion Rocket</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Thermal_Propulsion_Rocket
+Item name: Thermal Propulsion Rocket
+Item link: https://satisfactory.fandom.com/wiki/Thermal_Propulsion_Rocket
+
+</data>
+    </node>
+    <node id="185_Thermal_Propulsion_Rocket">
+      <data key="d0">185_Thermal_Propulsion_Rocket</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 185_Thermal_Propulsion_Rocket
+		Time: 120
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Turbo_Motor">
+      <data key="d0">Turbo Motor</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Turbo_Motor
+Item name: Turbo Motor
+Item link: https://satisfactory.fandom.com/wiki/Turbo_Motor
+
+</data>
+    </node>
+    <node id="186_Turbo_Motor">
+      <data key="d0">186_Turbo_Motor</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 186_Turbo_Motor
+		Time: 32
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="187_Turbo_Electric_Motor">
+      <data key="d0">187_Turbo_Electric_Motor</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 187_Turbo_Electric_Motor
+		Time: 64
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="188_Turbo_Pressure_Motor">
+      <data key="d0">188_Turbo_Pressure_Motor</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 188_Turbo_Pressure_Motor
+		Time: 32
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Turbofuel">
+      <data key="d0">Turbofuel</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Turbofuel
+Item name: Turbofuel
+Item link: https://satisfactory.fandom.com/wiki/Turbofuel
+
+</data>
+    </node>
+    <node id="189_Unpackage_Turbofuel">
+      <data key="d0">189_Unpackage_Turbofuel</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 189_Unpackage_Turbofuel
+		Time: 6
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="190_Turbofuel">
+      <data key="d0">190_Turbofuel</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 190_Turbofuel
+		Time: 16
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="191_Turbo_Heavy_Fuel">
+      <data key="d0">191_Turbo_Heavy_Fuel</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 191_Turbo_Heavy_Fuel
+		Time: 8
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="192_Turbo_Blend_Fuel">
+      <data key="d0">192_Turbo_Blend_Fuel</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 192_Turbo_Blend_Fuel
+		Time: 8
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Uranium">
+      <data key="d0">Uranium</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Uranium
+Item name: Uranium
+Item link: https://satisfactory.fandom.com/wiki/Uranium
+
+</data>
+    </node>
+    <node id="Uranium_Fuel_Rod">
+      <data key="d0">Uranium Fuel Rod</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Uranium_Fuel_Rod
+Item name: Uranium Fuel Rod
+Item link: https://satisfactory.fandom.com/wiki/Uranium_Fuel_Rod
+
+</data>
+    </node>
+    <node id="193_Uranium_Fuel_Rod">
+      <data key="d0">193_Uranium_Fuel_Rod</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 193_Uranium_Fuel_Rod
+		Time: 150
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="194_Uranium_Fuel_Unit">
+      <data key="d0">194_Uranium_Fuel_Unit</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 194_Uranium_Fuel_Unit
+		Time: 300
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Uranium_Waste">
+      <data key="d0">Uranium Waste</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Uranium_Waste
+Item name: Uranium Waste
+Item link: https://satisfactory.fandom.com/wiki/Uranium_Waste
+
+</data>
+    </node>
+    <node id="195_Uranium_Waste">
+      <data key="d0">195_Uranium_Waste</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 195_Uranium_Waste
+		Time: 300
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Versatile_Framework">
+      <data key="d0">Versatile Framework</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Versatile_Framework
+Item name: Versatile Framework
+Item link: https://satisfactory.fandom.com/wiki/Versatile_Framework
+
+</data>
+    </node>
+    <node id="196_Versatile_Framework">
+      <data key="d0">196_Versatile_Framework</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 196_Versatile_Framework
+		Time: 24
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="197_Flexible_Framework">
+      <data key="d0">197_Flexible_Framework</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 197_Flexible_Framework
+		Time: 16
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Vines">
+      <data key="d0">Vines</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Vines
+Item name: Vines
+Item link: https://satisfactory.fandom.com/wiki/Vines
+
+</data>
+    </node>
+    <node id="Wire">
+      <data key="d0">Wire</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Wire
+Item name: Wire
+Item link: https://satisfactory.fandom.com/wiki/Wire
+
+</data>
+    </node>
+    <node id="198_Wire">
+      <data key="d0">198_Wire</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 198_Wire
+		Time: 4
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="199_Fused_Wire">
+      <data key="d0">199_Fused_Wire</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 199_Fused_Wire
+		Time: 20
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="200_Iron_Wire">
+      <data key="d0">200_Iron_Wire</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 200_Iron_Wire
+		Time: 24
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="201_Caterium_Wire">
+      <data key="d0">201_Caterium_Wire</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 201_Caterium_Wire
+		Time: 4
+		Machine: None
+		Alt: True
+</data>
+    </node>
+    <node id="Wood">
+      <data key="d0">Wood</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Wood
+Item name: Wood
+Item link: https://satisfactory.fandom.com/wiki/Wood
+
+</data>
+    </node>
+    <node id="Xeno-Basher">
+      <data key="d0">Xeno-Basher</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Xeno-Basher
+Item name: Xeno-Basher
+Item link: https://satisfactory.fandom.com/wiki/Xeno-Basher
+
+</data>
+    </node>
+    <node id="202_Xeno-Basher">
+      <data key="d0">202_Xeno-Basher</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 202_Xeno-Basher
+		Time: 0.0
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Xeno-Zapper">
+      <data key="d0">Xeno-Zapper</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Xeno-Zapper
+Item name: Xeno-Zapper
+Item link: https://satisfactory.fandom.com/wiki/Xeno-Zapper
+
+</data>
+    </node>
+    <node id="203_Xeno-Zapper">
+      <data key="d0">203_Xeno-Zapper</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 203_Xeno-Zapper
+		Time: 0.0
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Zipline">
+      <data key="d0">Zipline</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Zipline
+Item name: Zipline
+Item link: https://satisfactory.fandom.com/wiki/Zipline
+
+</data>
+    </node>
+    <node id="204_Zipline">
+      <data key="d0">204_Zipline</data>
+      <data key="d1">Recipe</data>
+      <data key="d2">	Recipe Name: 204_Zipline
+		Time: 0.0
+		Machine: None
+		Alt: False
+</data>
+    </node>
+    <node id="Alumina_Solution">
+      <data key="d0">Alumina Solution</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Alumina_Solution
+Item name: Alumina Solution
+Item link: https://satisfactory.fandom.com/wiki/Alumina_Solution
+
+</data>
+    </node>
+    <node id="Water">
+      <data key="d0">Water</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Water
+Item name: Water
+Item link: https://satisfactory.fandom.com/wiki/Water
+
+</data>
+    </node>
+    <node id="Sulfuric_Acid">
+      <data key="d0">Sulfuric Acid</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Sulfuric_Acid
+Item name: Sulfuric Acid
+Item link: https://satisfactory.fandom.com/wiki/Sulfuric_Acid
+
+</data>
+    </node>
+    <node id="Heavy_Oil_Residue">
+      <data key="d0">Heavy Oil Residue</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Heavy_Oil_Residue
+Item name: Heavy Oil Residue
+Item link: https://satisfactory.fandom.com/wiki/Heavy_Oil_Residue
+
+</data>
+    </node>
+    <node id="Nitrogen_Gas">
+      <data key="d0">Nitrogen Gas</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Nitrogen_Gas
+Item name: Nitrogen Gas
+Item link: https://satisfactory.fandom.com/wiki/Nitrogen_Gas
+
+</data>
+    </node>
+    <node id="Fuel">
+      <data key="d0">Fuel</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Fuel
+Item name: Fuel
+Item link: https://satisfactory.fandom.com/wiki/Fuel
+
+</data>
+    </node>
+    <node id="Liquid_Biofuel">
+      <data key="d0">Liquid Biofuel</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Liquid_Biofuel
+Item name: Liquid Biofuel
+Item link: https://satisfactory.fandom.com/wiki/Liquid_Biofuel
+
+</data>
+    </node>
+    <node id="Nitric_Acid">
+      <data key="d0">Nitric Acid</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Nitric_Acid
+Item name: Nitric Acid
+Item link: https://satisfactory.fandom.com/wiki/Nitric_Acid
+
+</data>
+    </node>
+    <node id="Blue_Power_Slug">
+      <data key="d0">Blue Power Slug</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Blue_Power_Slug
+Item name: Blue Power Slug
+Item link: https://satisfactory.fandom.com/wiki/Blue_Power_Slug
+
+</data>
+    </node>
+    <node id="Yellow_Power_Slug">
+      <data key="d0">Yellow Power Slug</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Yellow_Power_Slug
+Item name: Yellow Power Slug
+Item link: https://satisfactory.fandom.com/wiki/Yellow_Power_Slug
+
+</data>
+    </node>
+    <node id="Purple_Power_Slug">
+      <data key="d0">Purple Power Slug</data>
+      <data key="d1">Item</data>
+      <data key="d2">Item id: Purple_Power_Slug
+Item name: Purple Power Slug
+Item link: https://satisfactory.fandom.com/wiki/Purple_Power_Slug
+
+</data>
+    </node>
+    <edge source="Adaptive_Control_Unit" target="10_Assembly_Director_System" />
+    <edge source="0_Adaptive_Control_Unit" target="Adaptive_Control_Unit" />
+    <edge source="AI_Limiter" target="58_Insulated_Crystal_Oscillator" />
+    <edge source="AI_Limiter" target="59_Electromagnetic_Control_Rod" />
+    <edge source="AI_Limiter" target="182_Supercomputer" />
+    <edge source="1_AI_Limiter" target="AI_Limiter" />
+    <edge source="Alclad_Aluminum_Sheet" target="14_Classic_Battery" />
+    <edge source="Alclad_Aluminum_Sheet" target="87_Heat_Sink" />
+    <edge source="2_Alclad_Aluminum_Sheet" target="Alclad_Aluminum_Sheet" />
+    <edge source="Alien_Carapace" target="20_Biomass_(Alien_Carapace)" />
+    <edge source="Alien_Organs" target="21_Biomass_(Alien_Organs)" />
+    <edge source="Alien_Organs" target="106_Medicinal_Inhaler:_Alien_Organs" />
+    <edge source="Aluminum_Casing" target="13_Battery" />
+    <edge source="Aluminum_Casing" target="78_Instant_Plutonium_Cell" />
+    <edge source="Aluminum_Casing" target="83_Fused_Modular_Frame" />
+    <edge source="Aluminum_Casing" target="88_Heat_Exchanger" />
+    <edge source="Aluminum_Casing" target="150_Radio_Control_Unit" />
+    <edge source="Aluminum_Casing" target="151_Radio_Control_System" />
+    <edge source="3_Aluminum_Casing" target="Aluminum_Casing" />
+    <edge source="4_Alclad_Casing" target="Aluminum_Casing" />
+    <edge source="Aluminum_Ingot" target="2_Alclad_Aluminum_Sheet" />
+    <edge source="Aluminum_Ingot" target="3_Aluminum_Casing" />
+    <edge source="Aluminum_Ingot" target="4_Alclad_Casing" />
+    <edge source="Aluminum_Ingot" target="72_Empty_Fluid_Tank" />
+    <edge source="Aluminum_Ingot" target="84_Heat-Fused_Frame" />
+    <edge source="5_Aluminum_Ingot" target="Aluminum_Ingot" />
+    <edge source="6_Pure_Aluminum_Ingot" target="Aluminum_Ingot" />
+    <edge source="Aluminum_Scrap" target="5_Aluminum_Ingot" />
+    <edge source="Aluminum_Scrap" target="6_Pure_Aluminum_Ingot" />
+    <edge source="7_Aluminum_Scrap" target="Aluminum_Scrap" />
+    <edge source="7_Aluminum_Scrap" target="Water" />
+    <edge source="8_Electrode_-_Aluminum_Scrap" target="Aluminum_Scrap" />
+    <edge source="8_Electrode_-_Aluminum_Scrap" target="Water" />
+    <edge source="9_Instant_Scrap" target="Aluminum_Scrap" />
+    <edge source="9_Instant_Scrap" target="Water" />
+    <edge source="10_Assembly_Director_System" target="Assembly_Director_System" />
+    <edge source="Automated_Wiring" target="0_Adaptive_Control_Unit" />
+    <edge source="11_Automated_Wiring" target="Automated_Wiring" />
+    <edge source="12_Automated_Speed_Wiring" target="Automated_Wiring" />
+    <edge source="Bacon_Agaric" target="105_Nutritional_Inhaler" />
+    <edge source="Bacon_Agaric" target="107_Medicinal_Inhaler" />
+    <edge source="Battery" target="104_Magnetic_Field_Generator" />
+    <edge source="Battery" target="184_Super-State_Computer" />
+    <edge source="13_Battery" target="Battery" />
+    <edge source="13_Battery" target="Water" />
+    <edge source="14_Classic_Battery" target="Battery" />
+    <edge source="Bauxite" target="9_Instant_Scrap" />
+    <edge source="Bauxite" target="168_Alumina_Solution" />
+    <edge source="Beacon" target="118_Object_Scanner" />
+    <edge source="Beacon" target="194_Uranium_Fuel_Unit" />
+    <edge source="15_Beacon" target="Beacon" />
+    <edge source="16_Crystal_Beacon" target="Beacon" />
+    <edge source="Biomass" target="36_Biocoal" />
+    <edge source="Biomass" target="81_Fabric" />
+    <edge source="Biomass" target="173_Solid_Biofuel" />
+    <edge source="17_Biomass_(Leaves)" target="Biomass" />
+    <edge source="18_Biomass_(Wood)" target="Biomass" />
+    <edge source="19_Biomass_(Mycelia)" target="Biomass" />
+    <edge source="20_Biomass_(Alien_Carapace)" target="Biomass" />
+    <edge source="21_Biomass_(Alien_Organs)" target="Biomass" />
+    <edge source="22_Black_Powder" target="Black_Powder" />
+    <edge source="23_Fine_Black_Powder" target="Black_Powder" />
+    <edge source="24_Blade_Runners" target="Blade_Runners" />
+    <edge source="Cable" target="11_Automated_Wiring" />
+    <edge source="Cable" target="15_Beacon" />
+    <edge source="Cable" target="40_Computer" />
+    <edge source="Cable" target="57_Crystal_Oscillator" />
+    <edge source="Cable" target="92_High-Speed_Connector" />
+    <edge source="Cable" target="130_Parachute" />
+    <edge source="25_Cable" target="Cable" />
+    <edge source="26_Coated_Cable" target="Cable" />
+    <edge source="27_Insulated_Cable" target="Cable" />
+    <edge source="28_Quickwire_Cable" target="Cable" />
+    <edge source="Caterium_Ingot" target="148_Quickwire" />
+    <edge source="Caterium_Ingot" target="149_Fused_Quickwire" />
+    <edge source="Caterium_Ingot" target="199_Fused_Wire" />
+    <edge source="Caterium_Ingot" target="201_Caterium_Wire" />
+    <edge source="29_Caterium_Ingot" target="Caterium_Ingot" />
+    <edge source="30_Pure_Caterium_Ingot" target="Caterium_Ingot" />
+    <edge source="Caterium_Ore" target="29_Caterium_Ingot" />
+    <edge source="Caterium_Ore" target="30_Pure_Caterium_Ingot" />
+    <edge source="Circuit_Board" target="0_Adaptive_Control_Unit" />
+    <edge source="Circuit_Board" target="40_Computer" />
+    <edge source="Circuit_Board" target="41_Crystal_Computer" />
+    <edge source="Circuit_Board" target="42_Caterium_Computer" />
+    <edge source="Circuit_Board" target="92_High-Speed_Connector" />
+    <edge source="Circuit_Board" target="93_Silicon_High-Speed_Connector" />
+    <edge source="Circuit_Board" target="151_Radio_Control_System" />
+    <edge source="31_Circuit_Board" target="Circuit_Board" />
+    <edge source="32_Electrode_Circuit_Board" target="Circuit_Board" />
+    <edge source="33_Silicon_Circuit_Board" target="Circuit_Board" />
+    <edge source="34_Caterium_Circuit_Board" target="Circuit_Board" />
+    <edge source="Coal" target="7_Aluminum_Scrap" />
+    <edge source="Coal" target="9_Instant_Scrap" />
+    <edge source="Coal" target="22_Black_Powder" />
+    <edge source="Coal" target="39_Compacted_Coal" />
+    <edge source="Coal" target="177_Steel_Ingot" />
+    <edge source="Coal" target="180_Solid_Steel_Ingot" />
+    <edge source="35_Coal" target="Coal" />
+    <edge source="36_Biocoal" target="Coal" />
+    <edge source="37_Charcoal" target="Coal" />
+    <edge source="38_Color_Gun&lt;span&gt;Unreleased&lt;/span&gt; " target="Color_Gun" />
+    <edge source="Compacted_Coal" target="23_Fine_Black_Powder" />
+    <edge source="Compacted_Coal" target="179_Compacted_Steel_Ingot" />
+    <edge source="Compacted_Coal" target="190_Turbofuel" />
+    <edge source="Compacted_Coal" target="191_Turbo_Heavy_Fuel" />
+    <edge source="39_Compacted_Coal" target="Compacted_Coal" />
+    <edge source="Computer" target="0_Adaptive_Control_Unit" />
+    <edge source="Computer" target="150_Radio_Control_Unit" />
+    <edge source="Computer" target="182_Supercomputer" />
+    <edge source="Computer" target="184_Super-State_Computer" />
+    <edge source="40_Computer" target="Computer" />
+    <edge source="41_Crystal_Computer" target="Computer" />
+    <edge source="42_Caterium_Computer" target="Computer" />
+    <edge source="Concrete" target="75_Encased_Industrial_Beam" />
+    <edge source="Concrete" target="76_Encased_Industrial_Pipe" />
+    <edge source="Concrete" target="77_Encased_Plutonium_Cell" />
+    <edge source="Concrete" target="79_Encased_Uranium_Cell" />
+    <edge source="Concrete" target="91_Heavy_Encased_Frame" />
+    <edge source="43_Concrete" target="Concrete" />
+    <edge source="44_Rubber_Concrete" target="Concrete" />
+    <edge source="45_Wet_Concrete" target="Concrete" />
+    <edge source="46_Fine_Concrete" target="Concrete" />
+    <edge source="Cooling_System" target="183_OC_Supercomputer" />
+    <edge source="Cooling_System" target="185_Thermal_Propulsion_Rocket" />
+    <edge source="Cooling_System" target="186_Turbo_Motor" />
+    <edge source="47_Cooling_System" target="Cooling_System" />
+    <edge source="48_Cooling_Device" target="Cooling_System" />
+    <edge source="Copper_Ingot" target="2_Alclad_Aluminum_Sheet" />
+    <edge source="Copper_Ingot" target="4_Alclad_Casing" />
+    <edge source="Copper_Ingot" target="52_Copper_Powder" />
+    <edge source="Copper_Ingot" target="53_Copper_Sheet" />
+    <edge source="Copper_Ingot" target="54_Steamed_Copper_Sheet" />
+    <edge source="Copper_Ingot" target="149_Fused_Quickwire" />
+    <edge source="Copper_Ingot" target="198_Wire" />
+    <edge source="Copper_Ingot" target="199_Fused_Wire" />
+    <edge source="49_Copper_Ingot" target="Copper_Ingot" />
+    <edge source="50_Copper_Alloy_Ingot" target="Copper_Ingot" />
+    <edge source="51_Pure_Copper_Ingot" target="Copper_Ingot" />
+    <edge source="Copper_Ore" target="49_Copper_Ingot" />
+    <edge source="Copper_Ore" target="50_Copper_Alloy_Ingot" />
+    <edge source="Copper_Ore" target="51_Pure_Copper_Ingot" />
+    <edge source="Copper_Ore" target="97_Iron_Alloy_Ingot" />
+    <edge source="Copper_Powder" target="117_Nuclear_Pasta" />
+    <edge source="52_Copper_Powder" target="Copper_Powder" />
+    <edge source="Copper_Sheet" target="1_AI_Limiter" />
+    <edge source="Copper_Sheet" target="31_Circuit_Board" />
+    <edge source="Copper_Sheet" target="33_Silicon_Circuit_Board" />
+    <edge source="Copper_Sheet" target="71_Coated_Iron_Canister" />
+    <edge source="Copper_Sheet" target="87_Heat_Sink" />
+    <edge source="Copper_Sheet" target="160_Copper_Rotor" />
+    <edge source="53_Copper_Sheet" target="Copper_Sheet" />
+    <edge source="54_Steamed_Copper_Sheet" target="Copper_Sheet" />
+    <edge source="Crude_Oil" target="126_Packaged_Oil" />
+    <edge source="Crude_Oil" target="132_Plastic" />
+    <edge source="Crude_Oil" target="139_Fuel" />
+    <edge source="Crude_Oil" target="140_Polymer_Resin" />
+    <edge source="Crude_Oil" target="141_Heavy_Oil_Residue" />
+    <edge source="Crude_Oil" target="162_Rubber" />
+    <edge source="55_Crude_Oil" target="Crude_Oil" />
+    <edge source="56_Unpackage_Oil" target="Crude_Oil" />
+    <edge source="56_Unpackage_Oil" target="Empty_Canister" />
+    <edge source="Crystal_Oscillator" target="16_Crystal_Beacon" />
+    <edge source="Crystal_Oscillator" target="41_Crystal_Computer" />
+    <edge source="Crystal_Oscillator" target="113_Rigour_Motor" />
+    <edge source="Crystal_Oscillator" target="150_Radio_Control_Unit" />
+    <edge source="Crystal_Oscillator" target="151_Radio_Control_System" />
+    <edge source="Crystal_Oscillator" target="194_Uranium_Fuel_Unit" />
+    <edge source="57_Crystal_Oscillator" target="Crystal_Oscillator" />
+    <edge source="58_Insulated_Crystal_Oscillator" target="Crystal_Oscillator" />
+    <edge source="Electromagnetic_Control_Rod" target="104_Magnetic_Field_Generator" />
+    <edge source="Electromagnetic_Control_Rod" target="114_Electric_Motor" />
+    <edge source="Electromagnetic_Control_Rod" target="135_Plutonium_Fuel_Rod" />
+    <edge source="Electromagnetic_Control_Rod" target="184_Super-State_Computer" />
+    <edge source="Electromagnetic_Control_Rod" target="187_Turbo_Electric_Motor" />
+    <edge source="Electromagnetic_Control_Rod" target="193_Uranium_Fuel_Rod" />
+    <edge source="Electromagnetic_Control_Rod" target="194_Uranium_Fuel_Unit" />
+    <edge source="59_Electromagnetic_Control_Rod" target="Electromagnetic_Control_Rod" />
+    <edge source="60_Electromagnetic_Connection_Rod" target="Electromagnetic_Control_Rod" />
+    <edge source="Empty_Canister" target="119_Packaged_Alumina_Solution" />
+    <edge source="Empty_Canister" target="120_Packaged_Fuel" />
+    <edge source="Empty_Canister" target="122_Packaged_Heavy_Oil_Residue" />
+    <edge source="Empty_Canister" target="123_Packaged_Liquid_Biofuel" />
+    <edge source="Empty_Canister" target="126_Packaged_Oil" />
+    <edge source="Empty_Canister" target="127_Packaged_Sulfuric_Acid" />
+    <edge source="Empty_Canister" target="128_Packaged_Turbofuel" />
+    <edge source="Empty_Canister" target="129_Packaged_Water" />
+    <edge source="61_Empty_Canister" target="Empty_Canister" />
+    <edge source="62_Unpackage_Heavy_Oil_Residue" target="Heavy_Oil_Residue" />
+    <edge source="62_Unpackage_Heavy_Oil_Residue" target="Empty_Canister" />
+    <edge source="63_Unpackage_Alumina_Solution" target="Alumina_Solution" />
+    <edge source="63_Unpackage_Alumina_Solution" target="Empty_Canister" />
+    <edge source="64_Unpackage_Sulfuric_Acid" target="Sulfuric_Acid" />
+    <edge source="64_Unpackage_Sulfuric_Acid" target="Empty_Canister" />
+    <edge source="65_Unpackage_Water" target="Water" />
+    <edge source="65_Unpackage_Water" target="Empty_Canister" />
+    <edge source="66_Unpackage_Turbofuel" target="Turbofuel" />
+    <edge source="66_Unpackage_Turbofuel" target="Empty_Canister" />
+    <edge source="67_Unpackage_Fuel" target="Fuel" />
+    <edge source="67_Unpackage_Fuel" target="Empty_Canister" />
+    <edge source="68_Unpackage_Liquid_Biofuel" target="Liquid_Biofuel" />
+    <edge source="68_Unpackage_Liquid_Biofuel" target="Empty_Canister" />
+    <edge source="69_Unpackage_Oil" target="Crude_Oil" />
+    <edge source="69_Unpackage_Oil" target="Empty_Canister" />
+    <edge source="70_Steel_Canister" target="Empty_Canister" />
+    <edge source="71_Coated_Iron_Canister" target="Empty_Canister" />
+    <edge source="Empty_Fluid_Tank" target="124_Packaged_Nitric_Acid" />
+    <edge source="Empty_Fluid_Tank" target="125_Packaged_Nitrogen_Gas" />
+    <edge source="72_Empty_Fluid_Tank" target="Empty_Fluid_Tank" />
+    <edge source="73_Unpackage_Nitric_Acid" target="Nitric_Acid" />
+    <edge source="73_Unpackage_Nitric_Acid" target="Empty_Fluid_Tank" />
+    <edge source="74_Unpackage_Nitrogen_Gas" target="Nitrogen_Gas" />
+    <edge source="74_Unpackage_Nitrogen_Gas" target="Empty_Fluid_Tank" />
+    <edge source="Encased_Industrial_Beam" target="89_Heavy_Modular_Frame" />
+    <edge source="Encased_Industrial_Beam" target="90_Heavy_Flexible_Frame" />
+    <edge source="Encased_Industrial_Beam" target="91_Heavy_Encased_Frame" />
+    <edge source="Encased_Industrial_Beam" target="193_Uranium_Fuel_Rod" />
+    <edge source="75_Encased_Industrial_Beam" target="Encased_Industrial_Beam" />
+    <edge source="76_Encased_Industrial_Pipe" target="Encased_Industrial_Beam" />
+    <edge source="Encased_Plutonium_Cell" target="135_Plutonium_Fuel_Rod" />
+    <edge source="Encased_Plutonium_Cell" target="136_Plutonium_Fuel_Unit" />
+    <edge source="77_Encased_Plutonium_Cell" target="Encased_Plutonium_Cell" />
+    <edge source="78_Instant_Plutonium_Cell" target="Encased_Plutonium_Cell" />
+    <edge source="Encased_Uranium_Cell" target="193_Uranium_Fuel_Rod" />
+    <edge source="Encased_Uranium_Cell" target="194_Uranium_Fuel_Unit" />
+    <edge source="79_Encased_Uranium_Cell" target="Encased_Uranium_Cell" />
+    <edge source="79_Encased_Uranium_Cell" target="Sulfuric_Acid" />
+    <edge source="80_Infused_Uranium_Cell" target="Encased_Uranium_Cell" />
+    <edge source="Fabric" target="130_Parachute" />
+    <edge source="81_Fabric" target="Fabric" />
+    <edge source="82_Polyester_Fabric" target="Fabric" />
+    <edge source="Fused_Modular_Frame" target="145_Pressure_Conversion_Cube" />
+    <edge source="Fused_Modular_Frame" target="185_Thermal_Propulsion_Rocket" />
+    <edge source="83_Fused_Modular_Frame" target="Fused_Modular_Frame" />
+    <edge source="84_Heat-Fused_Frame" target="Fused_Modular_Frame" />
+    <edge source="85_Gas_Mask" target="Gas_Mask" />
+    <edge source="86_Hazmat_Suit" target="Hazmat_Suit" />
+    <edge source="Heat_Sink" target="47_Cooling_System" />
+    <edge source="Heat_Sink" target="48_Cooling_Device" />
+    <edge source="Heat_Sink" target="135_Plutonium_Fuel_Rod" />
+    <edge source="Heat_Sink" target="152_Radio_Connection_Unit" />
+    <edge source="87_Heat_Sink" target="Heat_Sink" />
+    <edge source="88_Heat_Exchanger" target="Heat_Sink" />
+    <edge source="Heavy_Modular_Frame" target="0_Adaptive_Control_Unit" />
+    <edge source="Heavy_Modular_Frame" target="83_Fused_Modular_Frame" />
+    <edge source="Heavy_Modular_Frame" target="84_Heat-Fused_Frame" />
+    <edge source="Heavy_Modular_Frame" target="94_Hover_Pack" />
+    <edge source="Heavy_Modular_Frame" target="158_Rifle" />
+    <edge source="89_Heavy_Modular_Frame" target="Heavy_Modular_Frame" />
+    <edge source="90_Heavy_Flexible_Frame" target="Heavy_Modular_Frame" />
+    <edge source="91_Heavy_Encased_Frame" target="Heavy_Modular_Frame" />
+    <edge source="High-Speed_Connector" target="12_Automated_Speed_Wiring" />
+    <edge source="High-Speed_Connector" target="60_Electromagnetic_Connection_Rod" />
+    <edge source="High-Speed_Connector" target="152_Radio_Connection_Unit" />
+    <edge source="High-Speed_Connector" target="182_Supercomputer" />
+    <edge source="92_High-Speed_Connector" target="High-Speed_Connector" />
+    <edge source="93_Silicon_High-Speed_Connector" target="High-Speed_Connector" />
+    <edge source="94_Hover_Pack" target="Hover_Pack" />
+    <edge source="Iron_Ingot" target="98_Iron_Plate" />
+    <edge source="Iron_Ingot" target="99_Coated_Iron_Plate" />
+    <edge source="Iron_Ingot" target="101_Iron_Rod" />
+    <edge source="Iron_Ingot" target="166_Cast_Screw" />
+    <edge source="Iron_Ingot" target="180_Solid_Steel_Ingot" />
+    <edge source="Iron_Ingot" target="200_Iron_Wire" />
+    <edge source="95_Iron_Ingot" target="Iron_Ingot" />
+    <edge source="96_Pure_Iron_Ingot" target="Iron_Ingot" />
+    <edge source="97_Iron_Alloy_Ingot" target="Iron_Ingot" />
+    <edge source="Iron_Ore" target="50_Copper_Alloy_Ingot" />
+    <edge source="Iron_Ore" target="95_Iron_Ingot" />
+    <edge source="Iron_Ore" target="96_Pure_Iron_Ingot" />
+    <edge source="Iron_Ore" target="97_Iron_Alloy_Ingot" />
+    <edge source="Iron_Ore" target="177_Steel_Ingot" />
+    <edge source="Iron_Ore" target="178_Coke_Steel_Ingot" />
+    <edge source="Iron_Ore" target="179_Compacted_Steel_Ingot" />
+    <edge source="Iron_Plate" target="15_Beacon" />
+    <edge source="Iron_Plate" target="38_Color_Gun&lt;span&gt;Unreleased&lt;/span&gt; " />
+    <edge source="Iron_Plate" target="71_Coated_Iron_Canister" />
+    <edge source="Iron_Plate" target="154_Reinforced_Iron_Plate" />
+    <edge source="Iron_Plate" target="155_Adhered_Iron_Plate" />
+    <edge source="Iron_Plate" target="156_Bolted_Iron_Plate" />
+    <edge source="Iron_Plate" target="157_Stitched_Iron_Plate" />
+    <edge source="98_Iron_Plate" target="Iron_Plate" />
+    <edge source="99_Coated_Iron_Plate" target="Iron_Plate" />
+    <edge source="100_Steel_Coated_Plate" target="Iron_Plate" />
+    <edge source="Iron_Rod" target="15_Beacon" />
+    <edge source="Iron_Rod" target="109_Modular_Frame" />
+    <edge source="Iron_Rod" target="153_Rebar_Gun" />
+    <edge source="Iron_Rod" target="159_Rotor" />
+    <edge source="Iron_Rod" target="165_Screw" />
+    <edge source="Iron_Rod" target="203_Xeno-Zapper" />
+    <edge source="101_Iron_Rod" target="Iron_Rod" />
+    <edge source="102_Steel_Rod" target="Iron_Rod" />
+    <edge source="103_Jetpack" target="Jetpack" />
+    <edge source="Leaves" target="17_Biomass_(Leaves)" />
+    <edge source="Limestone" target="43_Concrete" />
+    <edge source="Limestone" target="44_Rubber_Concrete" />
+    <edge source="Limestone" target="45_Wet_Concrete" />
+    <edge source="Limestone" target="46_Fine_Concrete" />
+    <edge source="Limestone" target="170_Cheap_Silica" />
+    <edge source="104_Magnetic_Field_Generator" target="Magnetic_Field_Generator" />
+    <edge source="105_Nutritional_Inhaler" target="Medicinal_Inhaler" />
+    <edge source="106_Medicinal_Inhaler:_Alien_Organs" target="Medicinal_Inhaler" />
+    <edge source="107_Medicinal_Inhaler" target="Medicinal_Inhaler" />
+    <edge source="Modular_Engine" target="185_Thermal_Propulsion_Rocket" />
+    <edge source="108_Modular_Engine" target="Modular_Engine" />
+    <edge source="Modular_Frame" target="24_Blade_Runners" />
+    <edge source="Modular_Frame" target="89_Heavy_Modular_Frame" />
+    <edge source="Modular_Frame" target="90_Heavy_Flexible_Frame" />
+    <edge source="Modular_Frame" target="91_Heavy_Encased_Frame" />
+    <edge source="Modular_Frame" target="196_Versatile_Framework" />
+    <edge source="Modular_Frame" target="197_Flexible_Framework" />
+    <edge source="Modular_Frame" target="202_Xeno-Basher" />
+    <edge source="109_Modular_Frame" target="Modular_Frame" />
+    <edge source="110_Bolted_Frame" target="Modular_Frame" />
+    <edge source="111_Steeled_Frame" target="Modular_Frame" />
+    <edge source="Motor" target="48_Cooling_Device" />
+    <edge source="Motor" target="94_Hover_Pack" />
+    <edge source="Motor" target="108_Modular_Engine" />
+    <edge source="Motor" target="186_Turbo_Motor" />
+    <edge source="Motor" target="187_Turbo_Electric_Motor" />
+    <edge source="Motor" target="188_Turbo_Pressure_Motor" />
+    <edge source="112_Motor" target="Motor" />
+    <edge source="113_Rigour_Motor" target="Motor" />
+    <edge source="114_Electric_Motor" target="Motor" />
+    <edge source="Mycelia" target="19_Biomass_(Mycelia)" />
+    <edge source="Mycelia" target="81_Fabric" />
+    <edge source="Mycelia" target="106_Medicinal_Inhaler:_Alien_Organs" />
+    <edge source="Non-fissile_Uranium" target="78_Instant_Plutonium_Cell" />
+    <edge source="Non-fissile_Uranium" target="137_Plutonium_Pellet" />
+    <edge source="115_Non-fissile_Uranium" target="Non-fissile_Uranium" />
+    <edge source="115_Non-fissile_Uranium" target="Water" />
+    <edge source="116_Fertile_Uranium" target="Non-fissile_Uranium" />
+    <edge source="116_Fertile_Uranium" target="Water" />
+    <edge source="117_Nuclear_Pasta" target="Nuclear_Pasta" />
+    <edge source="118_Object_Scanner" target="Object_Scanner" />
+    <edge source="Packaged_Alumina_Solution" target="63_Unpackage_Alumina_Solution" />
+    <edge source="119_Packaged_Alumina_Solution" target="Packaged_Alumina_Solution" />
+    <edge source="Packaged_Fuel" target="67_Unpackage_Fuel" />
+    <edge source="120_Packaged_Fuel" target="Packaged_Fuel" />
+    <edge source="121_Diluted_Packaged_Fuel" target="Packaged_Fuel" />
+    <edge source="Packaged_Heavy_Oil_Residue" target="62_Unpackage_Heavy_Oil_Residue" />
+    <edge source="122_Packaged_Heavy_Oil_Residue" target="Packaged_Heavy_Oil_Residue" />
+    <edge source="Packaged_Liquid_Biofuel" target="68_Unpackage_Liquid_Biofuel" />
+    <edge source="123_Packaged_Liquid_Biofuel" target="Packaged_Liquid_Biofuel" />
+    <edge source="Packaged_Nitric_Acid" target="73_Unpackage_Nitric_Acid" />
+    <edge source="124_Packaged_Nitric_Acid" target="Packaged_Nitric_Acid" />
+    <edge source="Packaged_Nitrogen_Gas" target="74_Unpackage_Nitrogen_Gas" />
+    <edge source="Packaged_Nitrogen_Gas" target="188_Turbo_Pressure_Motor" />
+    <edge source="125_Packaged_Nitrogen_Gas" target="Packaged_Nitrogen_Gas" />
+    <edge source="Packaged_Oil" target="56_Unpackage_Oil" />
+    <edge source="Packaged_Oil" target="69_Unpackage_Oil" />
+    <edge source="126_Packaged_Oil" target="Packaged_Oil" />
+    <edge source="Packaged_Sulfuric_Acid" target="64_Unpackage_Sulfuric_Acid" />
+    <edge source="127_Packaged_Sulfuric_Acid" target="Packaged_Sulfuric_Acid" />
+    <edge source="Packaged_Turbofuel" target="66_Unpackage_Turbofuel" />
+    <edge source="Packaged_Turbofuel" target="189_Unpackage_Turbofuel" />
+    <edge source="128_Packaged_Turbofuel" target="Packaged_Turbofuel" />
+    <edge source="Packaged_Water" target="65_Unpackage_Water" />
+    <edge source="Packaged_Water" target="121_Diluted_Packaged_Fuel" />
+    <edge source="129_Packaged_Water" target="Packaged_Water" />
+    <edge source="Paleberry" target="105_Nutritional_Inhaler" />
+    <edge source="Paleberry" target="107_Medicinal_Inhaler" />
+    <edge source="130_Parachute" target="Parachute" />
+    <edge source="Petroleum_Coke" target="8_Electrode_-_Aluminum_Scrap" />
+    <edge source="Petroleum_Coke" target="32_Electrode_Circuit_Board" />
+    <edge source="Petroleum_Coke" target="178_Coke_Steel_Ingot" />
+    <edge source="Petroleum_Coke" target="192_Turbo_Blend_Fuel" />
+    <edge source="131_Petroleum_Coke" target="Petroleum_Coke" />
+    <edge source="Plastic" target="14_Classic_Battery" />
+    <edge source="Plastic" target="31_Circuit_Board" />
+    <edge source="Plastic" target="34_Caterium_Circuit_Board" />
+    <edge source="Plastic" target="40_Computer" />
+    <edge source="Plastic" target="61_Empty_Canister" />
+    <edge source="Plastic" target="85_Gas_Mask" />
+    <edge source="Plastic" target="86_Hazmat_Suit" />
+    <edge source="Plastic" target="99_Coated_Iron_Plate" />
+    <edge source="Plastic" target="100_Steel_Coated_Plate" />
+    <edge source="Plastic" target="103_Jetpack" />
+    <edge source="Plastic" target="164_Recycled_Rubber" />
+    <edge source="Plastic" target="172_Plastic_Smart_Plating" />
+    <edge source="Plastic" target="182_Supercomputer" />
+    <edge source="132_Plastic" target="Plastic" />
+    <edge source="132_Plastic" target="Heavy_Oil_Residue" />
+    <edge source="133_Residual_Plastic" target="Plastic" />
+    <edge source="134_Recycled_Plastic" target="Plastic" />
+    <edge source="Plutonium_Fuel_Rod" target="138_Plutonium_Waste" />
+    <edge source="135_Plutonium_Fuel_Rod" target="Plutonium_Fuel_Rod" />
+    <edge source="136_Plutonium_Fuel_Unit" target="Plutonium_Fuel_Rod" />
+    <edge source="Plutonium_Pellet" target="77_Encased_Plutonium_Cell" />
+    <edge source="137_Plutonium_Pellet" target="Plutonium_Pellet" />
+    <edge source="138_Plutonium_Waste" target="Plutonium_Waste" />
+    <edge source="Polymer_Resin" target="82_Polyester_Fabric" />
+    <edge source="Polymer_Resin" target="133_Residual_Plastic" />
+    <edge source="Polymer_Resin" target="163_Residual_Rubber" />
+    <edge source="139_Fuel" target="Fuel" />
+    <edge source="139_Fuel" target="Polymer_Resin" />
+    <edge source="140_Polymer_Resin" target="Polymer_Resin" />
+    <edge source="140_Polymer_Resin" target="Heavy_Oil_Residue" />
+    <edge source="141_Heavy_Oil_Residue" target="Heavy_Oil_Residue" />
+    <edge source="141_Heavy_Oil_Residue" target="Polymer_Resin" />
+    <edge source="142_Power_Shard_(1)" target="Power_Shard" />
+    <edge source="143_Power_Shard_(2)" target="Power_Shard" />
+    <edge source="144_Power_Shard_(5)" target="Power_Shard" />
+    <edge source="Pressure_Conversion_Cube" target="117_Nuclear_Pasta" />
+    <edge source="Pressure_Conversion_Cube" target="136_Plutonium_Fuel_Unit" />
+    <edge source="Pressure_Conversion_Cube" target="188_Turbo_Pressure_Motor" />
+    <edge source="145_Pressure_Conversion_Cube" target="Pressure_Conversion_Cube" />
+    <edge source="Quartz_Crystal" target="57_Crystal_Oscillator" />
+    <edge source="Quartz_Crystal" target="58_Insulated_Crystal_Oscillator" />
+    <edge source="Quartz_Crystal" target="152_Radio_Connection_Unit" />
+    <edge source="146_Quartz_Crystal" target="Quartz_Crystal" />
+    <edge source="147_Pure_Quartz_Crystal" target="Quartz_Crystal" />
+    <edge source="Quickwire" target="1_AI_Limiter" />
+    <edge source="Quickwire" target="24_Blade_Runners" />
+    <edge source="Quickwire" target="28_Quickwire_Cable" />
+    <edge source="Quickwire" target="34_Caterium_Circuit_Board" />
+    <edge source="Quickwire" target="42_Caterium_Computer" />
+    <edge source="Quickwire" target="80_Infused_Uranium_Cell" />
+    <edge source="Quickwire" target="92_High-Speed_Connector" />
+    <edge source="Quickwire" target="93_Silicon_High-Speed_Connector" />
+    <edge source="Quickwire" target="175_Quickwire_Stator" />
+    <edge source="Quickwire" target="204_Zipline" />
+    <edge source="148_Quickwire" target="Quickwire" />
+    <edge source="149_Fused_Quickwire" target="Quickwire" />
+    <edge source="Radio_Control_Unit" target="145_Pressure_Conversion_Cube" />
+    <edge source="Radio_Control_Unit" target="183_OC_Supercomputer" />
+    <edge source="Radio_Control_Unit" target="186_Turbo_Motor" />
+    <edge source="Radio_Control_Unit" target="187_Turbo_Electric_Motor" />
+    <edge source="150_Radio_Control_Unit" target="Radio_Control_Unit" />
+    <edge source="151_Radio_Control_System" target="Radio_Control_Unit" />
+    <edge source="152_Radio_Connection_Unit" target="Radio_Control_Unit" />
+    <edge source="Raw_Quartz" target="146_Quartz_Crystal" />
+    <edge source="Raw_Quartz" target="147_Pure_Quartz_Crystal" />
+    <edge source="Raw_Quartz" target="169_Silica" />
+    <edge source="Raw_Quartz" target="170_Cheap_Silica" />
+    <edge source="153_Rebar_Gun" target="Rebar_Gun" />
+    <edge source="Reinforced_Iron_Plate" target="57_Crystal_Oscillator" />
+    <edge source="Reinforced_Iron_Plate" target="109_Modular_Frame" />
+    <edge source="Reinforced_Iron_Plate" target="110_Bolted_Frame" />
+    <edge source="Reinforced_Iron_Plate" target="111_Steeled_Frame" />
+    <edge source="Reinforced_Iron_Plate" target="118_Object_Scanner" />
+    <edge source="Reinforced_Iron_Plate" target="153_Rebar_Gun" />
+    <edge source="Reinforced_Iron_Plate" target="171_Smart_Plating" />
+    <edge source="Reinforced_Iron_Plate" target="172_Plastic_Smart_Plating" />
+    <edge source="Reinforced_Iron_Plate" target="203_Xeno-Zapper" />
+    <edge source="154_Reinforced_Iron_Plate" target="Reinforced_Iron_Plate" />
+    <edge source="155_Adhered_Iron_Plate" target="Reinforced_Iron_Plate" />
+    <edge source="156_Bolted_Iron_Plate" target="Reinforced_Iron_Plate" />
+    <edge source="157_Stitched_Iron_Plate" target="Reinforced_Iron_Plate" />
+    <edge source="158_Rifle" target="Rifle" />
+    <edge source="Rotor" target="112_Motor" />
+    <edge source="Rotor" target="113_Rigour_Motor" />
+    <edge source="Rotor" target="114_Electric_Motor" />
+    <edge source="Rotor" target="171_Smart_Plating" />
+    <edge source="Rotor" target="172_Plastic_Smart_Plating" />
+    <edge source="Rotor" target="187_Turbo_Electric_Motor" />
+    <edge source="159_Rotor" target="Rotor" />
+    <edge source="160_Copper_Rotor" target="Rotor" />
+    <edge source="161_Steel_Rotor" target="Rotor" />
+    <edge source="Rubber" target="27_Insulated_Cable" />
+    <edge source="Rubber" target="28_Quickwire_Cable" />
+    <edge source="Rubber" target="32_Electrode_Circuit_Board" />
+    <edge source="Rubber" target="42_Caterium_Computer" />
+    <edge source="Rubber" target="44_Rubber_Concrete" />
+    <edge source="Rubber" target="47_Cooling_System" />
+    <edge source="Rubber" target="58_Insulated_Crystal_Oscillator" />
+    <edge source="Rubber" target="85_Gas_Mask" />
+    <edge source="Rubber" target="86_Hazmat_Suit" />
+    <edge source="Rubber" target="88_Heat_Exchanger" />
+    <edge source="Rubber" target="90_Heavy_Flexible_Frame" />
+    <edge source="Rubber" target="103_Jetpack" />
+    <edge source="Rubber" target="108_Modular_Engine" />
+    <edge source="Rubber" target="134_Recycled_Plastic" />
+    <edge source="Rubber" target="151_Radio_Control_System" />
+    <edge source="Rubber" target="155_Adhered_Iron_Plate" />
+    <edge source="Rubber" target="186_Turbo_Motor" />
+    <edge source="Rubber" target="197_Flexible_Framework" />
+    <edge source="162_Rubber" target="Rubber" />
+    <edge source="162_Rubber" target="Heavy_Oil_Residue" />
+    <edge source="163_Residual_Rubber" target="Rubber" />
+    <edge source="164_Recycled_Rubber" target="Rubber" />
+    <edge source="Screw" target="38_Color_Gun&lt;span&gt;Unreleased&lt;/span&gt; " />
+    <edge source="Screw" target="40_Computer" />
+    <edge source="Screw" target="89_Heavy_Modular_Frame" />
+    <edge source="Screw" target="90_Heavy_Flexible_Frame" />
+    <edge source="Screw" target="110_Bolted_Frame" />
+    <edge source="Screw" target="154_Reinforced_Iron_Plate" />
+    <edge source="Screw" target="156_Bolted_Iron_Plate" />
+    <edge source="Screw" target="159_Rotor" />
+    <edge source="Screw" target="160_Copper_Rotor" />
+    <edge source="165_Screw" target="Screw" />
+    <edge source="166_Cast_Screw" target="Screw" />
+    <edge source="167_Steel_Screw" target="Screw" />
+    <edge source="Silica" target="5_Aluminum_Ingot" />
+    <edge source="Silica" target="33_Silicon_Circuit_Board" />
+    <edge source="Silica" target="46_Fine_Concrete" />
+    <edge source="Silica" target="80_Infused_Uranium_Cell" />
+    <edge source="Silica" target="93_Silicon_High-Speed_Connector" />
+    <edge source="Silica" target="115_Non-fissile_Uranium" />
+    <edge source="168_Alumina_Solution" target="Alumina_Solution" />
+    <edge source="168_Alumina_Solution" target="Silica" />
+    <edge source="169_Silica" target="Silica" />
+    <edge source="170_Cheap_Silica" target="Silica" />
+    <edge source="Smart_Plating" target="108_Modular_Engine" />
+    <edge source="171_Smart_Plating" target="Smart_Plating" />
+    <edge source="172_Plastic_Smart_Plating" target="Smart_Plating" />
+    <edge source="173_Solid_Biofuel" target="Solid_Biofuel" />
+    <edge source="Stator" target="11_Automated_Wiring" />
+    <edge source="Stator" target="12_Automated_Speed_Wiring" />
+    <edge source="Stator" target="59_Electromagnetic_Control_Rod" />
+    <edge source="Stator" target="60_Electromagnetic_Connection_Rod" />
+    <edge source="Stator" target="112_Motor" />
+    <edge source="Stator" target="113_Rigour_Motor" />
+    <edge source="Stator" target="188_Turbo_Pressure_Motor" />
+    <edge source="174_Stator" target="Stator" />
+    <edge source="175_Quickwire_Stator" target="Stator" />
+    <edge source="Steel_Beam" target="16_Crystal_Beacon" />
+    <edge source="Steel_Beam" target="75_Encased_Industrial_Beam" />
+    <edge source="Steel_Beam" target="135_Plutonium_Fuel_Rod" />
+    <edge source="Steel_Beam" target="167_Steel_Screw" />
+    <edge source="Steel_Beam" target="196_Versatile_Framework" />
+    <edge source="Steel_Beam" target="197_Flexible_Framework" />
+    <edge source="176_Steel_Beam" target="Steel_Beam" />
+    <edge source="Steel_Ingot" target="70_Steel_Canister" />
+    <edge source="Steel_Ingot" target="100_Steel_Coated_Plate" />
+    <edge source="Steel_Ingot" target="102_Steel_Rod" />
+    <edge source="Steel_Ingot" target="176_Steel_Beam" />
+    <edge source="Steel_Ingot" target="181_Steel_Pipe" />
+    <edge source="177_Steel_Ingot" target="Steel_Ingot" />
+    <edge source="178_Coke_Steel_Ingot" target="Steel_Ingot" />
+    <edge source="179_Compacted_Steel_Ingot" target="Steel_Ingot" />
+    <edge source="180_Solid_Steel_Ingot" target="Steel_Ingot" />
+    <edge source="Steel_Pipe" target="16_Crystal_Beacon" />
+    <edge source="Steel_Pipe" target="76_Encased_Industrial_Pipe" />
+    <edge source="Steel_Pipe" target="89_Heavy_Modular_Frame" />
+    <edge source="Steel_Pipe" target="91_Heavy_Encased_Frame" />
+    <edge source="Steel_Pipe" target="111_Steeled_Frame" />
+    <edge source="Steel_Pipe" target="158_Rifle" />
+    <edge source="Steel_Pipe" target="161_Steel_Rotor" />
+    <edge source="Steel_Pipe" target="174_Stator" />
+    <edge source="Steel_Pipe" target="175_Quickwire_Stator" />
+    <edge source="181_Steel_Pipe" target="Steel_Pipe" />
+    <edge source="Sulfur" target="14_Classic_Battery" />
+    <edge source="Sulfur" target="22_Black_Powder" />
+    <edge source="Sulfur" target="23_Fine_Black_Powder" />
+    <edge source="Sulfur" target="39_Compacted_Coal" />
+    <edge source="Sulfur" target="80_Infused_Uranium_Cell" />
+    <edge source="Sulfur" target="192_Turbo_Blend_Fuel" />
+    <edge source="Supercomputer" target="10_Assembly_Director_System" />
+    <edge source="182_Supercomputer" target="Supercomputer" />
+    <edge source="183_OC_Supercomputer" target="Supercomputer" />
+    <edge source="184_Super-State_Computer" target="Supercomputer" />
+    <edge source="185_Thermal_Propulsion_Rocket" target="Thermal_Propulsion_Rocket" />
+    <edge source="Turbo_Motor" target="185_Thermal_Propulsion_Rocket" />
+    <edge source="186_Turbo_Motor" target="Turbo_Motor" />
+    <edge source="187_Turbo_Electric_Motor" target="Turbo_Motor" />
+    <edge source="188_Turbo_Pressure_Motor" target="Turbo_Motor" />
+    <edge source="Turbofuel" target="128_Packaged_Turbofuel" />
+    <edge source="189_Unpackage_Turbofuel" target="Turbofuel" />
+    <edge source="189_Unpackage_Turbofuel" target="Empty_Canister" />
+    <edge source="190_Turbofuel" target="Turbofuel" />
+    <edge source="191_Turbo_Heavy_Fuel" target="Turbofuel" />
+    <edge source="192_Turbo_Blend_Fuel" target="Turbofuel" />
+    <edge source="Uranium" target="79_Encased_Uranium_Cell" />
+    <edge source="Uranium" target="80_Infused_Uranium_Cell" />
+    <edge source="Uranium" target="116_Fertile_Uranium" />
+    <edge source="Uranium_Fuel_Rod" target="195_Uranium_Waste" />
+    <edge source="193_Uranium_Fuel_Rod" target="Uranium_Fuel_Rod" />
+    <edge source="194_Uranium_Fuel_Unit" target="Uranium_Fuel_Rod" />
+    <edge source="Uranium_Waste" target="115_Non-fissile_Uranium" />
+    <edge source="Uranium_Waste" target="116_Fertile_Uranium" />
+    <edge source="Uranium_Waste" target="137_Plutonium_Pellet" />
+    <edge source="195_Uranium_Waste" target="Uranium_Waste" />
+    <edge source="Versatile_Framework" target="104_Magnetic_Field_Generator" />
+    <edge source="196_Versatile_Framework" target="Versatile_Framework" />
+    <edge source="197_Flexible_Framework" target="Versatile_Framework" />
+    <edge source="Wire" target="12_Automated_Speed_Wiring" />
+    <edge source="Wire" target="14_Classic_Battery" />
+    <edge source="Wire" target="15_Beacon" />
+    <edge source="Wire" target="25_Cable" />
+    <edge source="Wire" target="26_Coated_Cable" />
+    <edge source="Wire" target="27_Insulated_Cable" />
+    <edge source="Wire" target="157_Stitched_Iron_Plate" />
+    <edge source="Wire" target="161_Steel_Rotor" />
+    <edge source="Wire" target="174_Stator" />
+    <edge source="Wire" target="184_Super-State_Computer" />
+    <edge source="198_Wire" target="Wire" />
+    <edge source="199_Fused_Wire" target="Wire" />
+    <edge source="200_Iron_Wire" target="Wire" />
+    <edge source="201_Caterium_Wire" target="Wire" />
+    <edge source="Wood" target="18_Biomass_(Wood)" />
+    <edge source="Wood" target="37_Charcoal" />
+    <edge source="202_Xeno-Basher" target="Xeno-Basher" />
+    <edge source="Xeno-Zapper" target="202_Xeno-Basher" />
+    <edge source="Xeno-Zapper" target="204_Zipline" />
+    <edge source="203_Xeno-Zapper" target="Xeno-Zapper" />
+    <edge source="204_Zipline" target="Zipline" />
+    <edge source="Alumina_Solution" target="7_Aluminum_Scrap" />
+    <edge source="Alumina_Solution" target="8_Electrode_-_Aluminum_Scrap" />
+    <edge source="Alumina_Solution" target="13_Battery" />
+    <edge source="Alumina_Solution" target="119_Packaged_Alumina_Solution" />
+    <edge source="Water" target="9_Instant_Scrap" />
+    <edge source="Water" target="30_Pure_Caterium_Ingot" />
+    <edge source="Water" target="45_Wet_Concrete" />
+    <edge source="Water" target="47_Cooling_System" />
+    <edge source="Water" target="51_Pure_Copper_Ingot" />
+    <edge source="Water" target="54_Steamed_Copper_Sheet" />
+    <edge source="Water" target="82_Polyester_Fabric" />
+    <edge source="Water" target="96_Pure_Iron_Ingot" />
+    <edge source="Water" target="129_Packaged_Water" />
+    <edge source="Water" target="133_Residual_Plastic" />
+    <edge source="Water" target="138_Plutonium_Waste" />
+    <edge source="Water" target="147_Pure_Quartz_Crystal" />
+    <edge source="Water" target="163_Residual_Rubber" />
+    <edge source="Water" target="168_Alumina_Solution" />
+    <edge source="Water" target="195_Uranium_Waste" />
+    <edge source="Sulfuric_Acid" target="9_Instant_Scrap" />
+    <edge source="Sulfuric_Acid" target="13_Battery" />
+    <edge source="Sulfuric_Acid" target="79_Encased_Uranium_Cell" />
+    <edge source="Sulfuric_Acid" target="115_Non-fissile_Uranium" />
+    <edge source="Sulfuric_Acid" target="116_Fertile_Uranium" />
+    <edge source="Sulfuric_Acid" target="127_Packaged_Sulfuric_Acid" />
+    <edge source="Heavy_Oil_Residue" target="26_Coated_Cable" />
+    <edge source="Heavy_Oil_Residue" target="121_Diluted_Packaged_Fuel" />
+    <edge source="Heavy_Oil_Residue" target="122_Packaged_Heavy_Oil_Residue" />
+    <edge source="Heavy_Oil_Residue" target="131_Petroleum_Coke" />
+    <edge source="Heavy_Oil_Residue" target="191_Turbo_Heavy_Fuel" />
+    <edge source="Heavy_Oil_Residue" target="192_Turbo_Blend_Fuel" />
+    <edge source="Nitrogen_Gas" target="47_Cooling_System" />
+    <edge source="Nitrogen_Gas" target="48_Cooling_Device" />
+    <edge source="Nitrogen_Gas" target="83_Fused_Modular_Frame" />
+    <edge source="Nitrogen_Gas" target="125_Packaged_Nitrogen_Gas" />
+    <edge source="Fuel" target="84_Heat-Fused_Frame" />
+    <edge source="Fuel" target="120_Packaged_Fuel" />
+    <edge source="Fuel" target="134_Recycled_Plastic" />
+    <edge source="Fuel" target="164_Recycled_Rubber" />
+    <edge source="Fuel" target="190_Turbofuel" />
+    <edge source="Fuel" target="192_Turbo_Blend_Fuel" />
+    <edge source="Liquid_Biofuel" target="123_Packaged_Liquid_Biofuel" />
+    <edge source="Nitric_Acid" target="84_Heat-Fused_Frame" />
+    <edge source="Nitric_Acid" target="115_Non-fissile_Uranium" />
+    <edge source="Nitric_Acid" target="116_Fertile_Uranium" />
+    <edge source="Nitric_Acid" target="124_Packaged_Nitric_Acid" />
+    <edge source="Blue_Power_Slug" target="142_Power_Shard_(1)" />
+    <edge source="Yellow_Power_Slug" target="143_Power_Shard_(2)" />
+    <edge source="Purple_Power_Slug" target="144_Power_Shard_(5)" />
+  </graph>
+</graphml>
